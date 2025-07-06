@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Secret / credential files
+credentials.json
+token.json
+
+# VS Code settings
+.vscode/
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# macOS metadata
+.DS_Store
+
+raw_emails.parquet
+steps.txt
