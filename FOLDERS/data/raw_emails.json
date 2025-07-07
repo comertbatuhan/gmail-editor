@@ -1,0 +1,4237 @@
+[
+  {
+    "id": 1,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 2,
+    "sender": "Uber <uber@uber.com>",
+    "subject": "Bu yaz seyahat mi ediyorsunuz Batuhan?"
+  },
+  {
+    "id": 3,
+    "sender": "Quora Digest <english-quora-digest@quora.com>",
+    "subject": "Do antidepressants change personality?"
+  },
+  {
+    "id": 4,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Best AI Certification to Land a High-Paying Job in 2025 (Up to $200K+) | Anirban Mukherjee ✍️"
+  },
+  {
+    "id": 5,
+    "sender": "Google Cloud <googlecloud@google.com>",
+    "subject": "Tam hesap erişimini etkinleştirdiniz"
+  },
+  {
+    "id": 6,
+    "sender": "Google Cloud <CloudPlatform-noreply@google.com>",
+    "subject": "Hesap onayı: Google Cloud ücretsiz deneme sürümünüz"
+  },
+  {
+    "id": 7,
+    "sender": "google-cloud-compliance@google.com",
+    "subject": "Reinstated: Google Cloud Platform  / APIs  project My First Project (id: t-diagram-465113-j0)"
+  },
+  {
+    "id": 8,
+    "sender": "\"Google Cloud Platform, Firebase, and APIs\" <CloudPlatform-noreply@google.com>",
+    "subject": "Your Google Cloud and APIs billing account 011314-2992C0-A646AA is in good standing at this time."
+  },
+  {
+    "id": 9,
+    "sender": "Google Payments <payments-noreply@google.com>",
+    "subject": "Google Payments: Doğrulama başarılı"
+  },
+  {
+    "id": 10,
+    "sender": "Google Payments <payments-noreply@google.com>",
+    "subject": "Google Payments: Tek seferlik kodunuz gönderiliyor"
+  },
+  {
+    "id": 11,
+    "sender": "google-cloud-compliance@google.com",
+    "subject": "Immediate Action Required: Your Google Cloud Platform/API Project My First Project (id: t-diagram-465113-j0) is Being Suspended"
+  },
+  {
+    "id": 12,
+    "sender": "\"Google Cloud Platform, Firebase, and APIs\" <CloudPlatform-noreply@google.com>",
+    "subject": "Urgent: your billing account 011314-2992C0-A646AA has been suspended"
+  },
+  {
+    "id": 13,
+    "sender": "\"Google Cloud Platform, Firebase, and APIs\" <CloudPlatform-noreply@google.com>",
+    "subject": "Urgent: your billing account 011314-2992C0-A646AA has been suspended"
+  },
+  {
+    "id": 14,
+    "sender": "noreply-payments@google.com",
+    "subject": "İşlem gerekiyor: Google Cloud kaydınızı tamamlamak için ödeme yönteminizi doğrulayın"
+  },
+  {
+    "id": 15,
+    "sender": "Quora Digest <english-quora-digest@quora.com>",
+    "subject": "Will the IELTS ban for 3 years lead to the cancellation of my current student visa?"
+  },
+  {
+    "id": 16,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 206"
+  },
+  {
+    "id": 17,
+    "sender": "Google <no-reply@google.com>",
+    "subject": "✅ Batuhan, Apple iPhone cihazınızın kurulumunu en yeni Google uygulamalarıyla tamamlayın"
+  },
+  {
+    "id": 18,
+    "sender": "Timeleft <contact@timeleft.com>",
+    "subject": "Timeleft’e hoş geldin! 🌟"
+  },
+  {
+    "id": 19,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 20,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 21,
+    "sender": "Sakshi <sakshi.raheja@newsletters.analyticsvidhya.com>",
+    "subject": "Your path to mastering AI starts here, Batuhan"
+  },
+  {
+    "id": 22,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "2 Adımlı Doğrulama açıldı"
+  },
+  {
+    "id": 23,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 24,
+    "sender": "Batuhan <batuhancomert2024@gmail.com>",
+    "subject": "Cover"
+  },
+  {
+    "id": 25,
+    "sender": "Quora Digest <english-quora-digest@quora.com>",
+    "subject": "What are popular Turkish names that are Turkic, not Arabic or Persian?"
+  },
+  {
+    "id": 26,
+    "sender": "Ask Data Dawn <ask-data-dawn@mail.beehiiv.com>",
+    "subject": "“Winging it” is killing your career."
+  },
+  {
+    "id": 27,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "I Analyzed Job Descriptions from 100 Tech Companies — Here’s What Data Engineers Really Need to… | Sohail Saifi in Data Engineer Things"
+  },
+  {
+    "id": 28,
+    "sender": "Converse <noreply@converse.com.tr>",
+    "subject": "İptal/İade Hakkında"
+  },
+  {
+    "id": 29,
+    "sender": "Converse <noreply@converse.com.tr>",
+    "subject": "İptal/İade Hakkında"
+  },
+  {
+    "id": 30,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <musterihizmetleri@turk.net>",
+    "subject": "25 Haziran Tarihli TurkNet Faturanız"
+  },
+  {
+    "id": 31,
+    "sender": "Uber <uber@uber.com>",
+    "subject": "Taksiye mi ihtiyacınız var? Sonraki 2 yolculuğunuzda 50% indirimin keyfini çıkarın."
+  },
+  {
+    "id": 32,
+    "sender": "Quora Digest <english-quora-digest@quora.com>",
+    "subject": "What was Trump’s GPA at Wharton?"
+  },
+  {
+    "id": 33,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Cut out these eleven habits if you want more respect | Alex Mathers"
+  },
+  {
+    "id": 34,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 205"
+  },
+  {
+    "id": 35,
+    "sender": "Quora Digest <english-quora-digest@quora.com>",
+    "subject": "This is the boy who quenched the thirst of half a million Africans. His name is Ryan, ..."
+  },
+  {
+    "id": 36,
+    "sender": "Quora Digest <english-quora-digest@quora.com>",
+    "subject": "Why is Japan not suitable for long term stay?"
+  },
+  {
+    "id": 37,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The 6 Programming Languages That Will Be Obsolete by 2026 (Are You Still Using Them?) | Sohail Saifi"
+  },
+  {
+    "id": 38,
+    "sender": "Fiverr <noreply@e.fiverr.com>",
+    "subject": "Reminder to privately rate your recent order"
+  },
+  {
+    "id": 39,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 11.5.5 on iPhone"
+  },
+  {
+    "id": 40,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 41,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Why I stopped using Cursor and reverted to VSCode | Marc Matterson in Data Science Collective"
+  },
+  {
+    "id": 42,
+    "sender": "Quora Digest <english-quora-digest@quora.com>",
+    "subject": "Which is correct: congratulation or congratulations?"
+  },
+  {
+    "id": 43,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "Try new Gemini 2.5 model releases"
+  },
+  {
+    "id": 44,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "10 Books That Will Put You Ahead of 99% of People | Matt Karamazov"
+  },
+  {
+    "id": 45,
+    "sender": "Fiverr <noreply@e.fiverr.com>",
+    "subject": "Privately rate your recent order"
+  },
+  {
+    "id": 46,
+    "sender": "Converse <noreply@converse.com.tr>",
+    "subject": "Siparişin Teslim Edildi"
+  },
+  {
+    "id": 47,
+    "sender": "Quora Digest <english-quora-digest@quora.com>",
+    "subject": "Why did Harvard reject my school's valedictorian? He had a 4.99 GPA (no grade less th...?"
+  },
+  {
+    "id": 48,
+    "sender": "QNB <email@email.qnb.com.tr>",
+    "subject": "QNB - Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 49,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "AI Makes Us Worse. And Dumber. | Ignacio de Gregorio"
+  },
+  {
+    "id": 50,
+    "sender": "Fiverr <noreply@e.fiverr.com>",
+    "subject": "You’ve got new messages from Jebon"
+  },
+  {
+    "id": 51,
+    "sender": "Fiverr <noreply@e.fiverr.com>",
+    "subject": "Great news: Your order is ready"
+  },
+  {
+    "id": 52,
+    "sender": "Fiverr <noreply@e.fiverr.com>",
+    "subject": "Great news: Your order is ready"
+  },
+  {
+    "id": 53,
+    "sender": "Fiverr <noreply@e.fiverr.com>",
+    "subject": "Great news: Your order is ready"
+  },
+  {
+    "id": 54,
+    "sender": "Fiverr <noreply@e.fiverr.com>",
+    "subject": "Great news: Your order is ready"
+  },
+  {
+    "id": 55,
+    "sender": "Fiverr <noreply@e.fiverr.com>",
+    "subject": "Here's your receipt of doing"
+  },
+  {
+    "id": 56,
+    "sender": "Fiverr <noreply@e.fiverr.com>",
+    "subject": "Great news! A custom offer, just for you"
+  },
+  {
+    "id": 57,
+    "sender": "Fiverr <noreply@e.fiverr.com>",
+    "subject": "You’ve got new messages from Jebon"
+  },
+  {
+    "id": 58,
+    "sender": "Fiverr <no-reply@announce.fiverr.com>",
+    "subject": "Welcome to Fiverr, batuhan12batuha! Let’s get started."
+  },
+  {
+    "id": 59,
+    "sender": "Google <no-reply@google.com>",
+    "subject": "✅ Batuhan, Apple iPhone cihazınızın kurulumunu en yeni Google uygulamalarıyla tamamlayın"
+  },
+  {
+    "id": 60,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 61,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 204"
+  },
+  {
+    "id": 62,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "59% of Shareholders Rejected This CEO’s Pay — His Response Proves Why Media Companies Are Failing | Wesley Edits in Write Your World"
+  },
+  {
+    "id": 63,
+    "sender": "Quora Digest <english-quora-digest@quora.com>",
+    "subject": "I got accepted by Harvard, MIT and Stanford but was rejected by University of Kansas....?"
+  },
+  {
+    "id": 64,
+    "sender": "<noreply@zorlupsm.com>",
+    "subject": "Lütfen E-posta adresinizi doğrulayın."
+  },
+  {
+    "id": 65,
+    "sender": "Quora Digest <english-quora-digest@quora.com>",
+    "subject": "How painful is death?"
+  },
+  {
+    "id": 66,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The End of ETL: The Radical Shift in Data Processing That’s Coming Next | Sohail Saifi in Data Engineer Things"
+  },
+  {
+    "id": 67,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "🥭 FAANG → MANGO, AI talent wars, $100M sign-ons, Rising Base Salaries"
+  },
+  {
+    "id": 68,
+    "sender": "\"e-Arşiv Faturanız\" <erenperakende@earsiv.qnbesolutions.com.tr>",
+    "subject": "EREN PERAKENDE VE TEKSTİL A. Ş.-Bur Marka AVM (Converse) e-Arşiv Faturanız"
+  },
+  {
+    "id": 69,
+    "sender": "\"e-Arşiv Faturanız\" <erenperakende@earsiv.qnbesolutions.com.tr>",
+    "subject": "EREN PERAKENDE VE TEKSTİL A. Ş.-İst Hilltown (Converse) e-Arşiv Faturanız"
+  },
+  {
+    "id": 70,
+    "sender": "Converse <noreply@converse.com.tr>",
+    "subject": "Siparişin Alındı"
+  },
+  {
+    "id": 71,
+    "sender": "Converse <noreply@converse.com.tr>",
+    "subject": "[Converse Türkiye] Converse'e Hoşgeldin!"
+  },
+  {
+    "id": 72,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The Extinction Event: Why SaaS is Already Dead (It Just Doesn’t Know It Yet) | Srinivas Rao"
+  },
+  {
+    "id": 73,
+    "sender": "Quora Digest <english-quora-digest@quora.com>",
+    "subject": "What is the calmest personality type?"
+  },
+  {
+    "id": 74,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "9 Daily ChatGPT Uses That Will Literally Change Your Life | Jordan Davis in Write A Catalyst"
+  },
+  {
+    "id": 75,
+    "sender": "Ask Data Dawn <ask-data-dawn@mail.beehiiv.com>",
+    "subject": "I automated myself OUT of my Business Analyst job"
+  },
+  {
+    "id": 76,
+    "sender": "Quora Digest <english-quora-digest@quora.com>",
+    "subject": "What is your opinion/review of each MBTI type?"
+  },
+  {
+    "id": 77,
+    "sender": "Quora Digest <english-quora-digest@quora.com>",
+    "subject": "Is an IQ score of 138 considered good?"
+  },
+  {
+    "id": 78,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Resumes Are Dying — Here’s What’s Replacing Them | George J. Ziogas in Psychology of Workplaces"
+  },
+  {
+    "id": 79,
+    "sender": "Quora Digest <english-quora-digest@quora.com>",
+    "subject": "What does a “broken” INFJ look like?"
+  },
+  {
+    "id": 80,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <noreply@turknet.net.tr>",
+    "subject": "TurkNet - Fatura Bilgilendirme"
+  },
+  {
+    "id": 81,
+    "sender": "Quora Digest <english-quora-digest@quora.com>",
+    "subject": "What types of emotional reactions do narcissists consider the best supply?"
+  },
+  {
+    "id": 82,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 203"
+  },
+  {
+    "id": 83,
+    "sender": "Google Cloud <CloudPlatform-noreply@google.com>",
+    "subject": "[Product Update] New security enhancement for your Google Cloud environment"
+  },
+  {
+    "id": 84,
+    "sender": "Shreya <shreya@newsletters.analyticsvidhya.com>",
+    "subject": "Learn AI Instead Of Just Talking About It"
+  },
+  {
+    "id": 85,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "How to Stay Up-to-Date in AI/ML Without Losing Your Mind | Marina Wyss - Gratitude Driven in Data Science Collective"
+  },
+  {
+    "id": 86,
+    "sender": "Quora Digest <english-quora-digest@quora.com>",
+    "subject": "Why are INTJs so cute?"
+  },
+  {
+    "id": 87,
+    "sender": "Garanti BBVA <bilgi@bilgi.garantibbva.com.tr>",
+    "subject": "Güvenliğiniz Bizim İçin Önemli"
+  },
+  {
+    "id": 88,
+    "sender": "Quora Digest <english-quora-digest@quora.com>",
+    "subject": "What screams \"I am an INTJ\"?"
+  },
+  {
+    "id": 89,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "I’ll Instantly Know You Used Chat Gpt If I See This | Ossai Chinedum in Long. Sweet. Valuable."
+  },
+  {
+    "id": 90,
+    "sender": "Quora Digest <english-personalized-digest@quora.com>",
+    "subject": "Are all depressed people mentally weak?"
+  },
+  {
+    "id": 91,
+    "sender": "Turkish Airlines <mail@mail.turkishairlines.com>",
+    "subject": "Miles&Smiles Transaction Information"
+  },
+  {
+    "id": 92,
+    "sender": "Batuhan <batuhancomert2024@gmail.com>",
+    "subject": "Mark models"
+  },
+  {
+    "id": 93,
+    "sender": "Turkish Airlines <onlineticket@mail.turkishairlines.com>",
+    "subject": "Koltuk Seçimi Detayları"
+  },
+  {
+    "id": 94,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "How AI Is Rewriting the Day-to-Day of Data Scientists | Yu Dong"
+  },
+  {
+    "id": 95,
+    "sender": "Quora Digest <english-personalized-digest@quora.com>",
+    "subject": "I was refused a student visa today, despite me having full funding that covers tuitio...?"
+  },
+  {
+    "id": 96,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 202"
+  },
+  {
+    "id": 97,
+    "sender": "Quora Digest <english-personalized-digest@quora.com>",
+    "subject": "I got admitted to 2 universities in Germany: OVGU Magdeburg and TU Munich. Which shou...?"
+  },
+  {
+    "id": 98,
+    "sender": "Shreya <shreya@newsletters.analyticsvidhya.com>",
+    "subject": "Step Into GenAI & Agentic AI Mastery"
+  },
+  {
+    "id": 99,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "5 Free Data Science Books That Actually Made Me Better (After Skipping 60 Others) | Suraj Jha in Write A Catalyst"
+  },
+  {
+    "id": 100,
+    "sender": "Ask Data Dawn <ask-data-dawn@mail.beehiiv.com>",
+    "subject": "3 portfolio projects to land your dream Data job"
+  },
+  {
+    "id": 101,
+    "sender": "Quora Digest <english-personalized-digest@quora.com>",
+    "subject": "I am 26 years old. I am unemployed and very depressed with myself. All my friends hav...?"
+  },
+  {
+    "id": 102,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Interview Best Practices | M. A. Neeper in ILLUMINATION"
+  },
+  {
+    "id": 103,
+    "sender": "Turkish Airlines <onlineticket@mail.turkishairlines.com>",
+    "subject": "Türk Hava Yolları - Online Bilet - Bilgi Mesajı"
+  },
+  {
+    "id": 104,
+    "sender": "Turkish Airlines <mail@mail.turkishairlines.com>",
+    "subject": "Miles&Smiles Award Ticket"
+  },
+  {
+    "id": 105,
+    "sender": "Turkish Airlines <mail@mail.turkishairlines.com>",
+    "subject": "Ticari elektronik ileti bilgilendirmesi"
+  },
+  {
+    "id": 106,
+    "sender": "Turkish Airlines <mail@mail.turkishairlines.com>",
+    "subject": "One Time Password"
+  },
+  {
+    "id": 107,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "10 mistakes that steal your natural confidence | Alex Mathers"
+  },
+  {
+    "id": 108,
+    "sender": "Quora Digest <english-personalized-digest@quora.com>",
+    "subject": "Is it grammatically correct to use “ing” after “ing”? For example: “I’m pretending lo...?"
+  },
+  {
+    "id": 109,
+    "sender": "Yasemin Vurgun <yasemin@barbarewines.com>",
+    "subject": "Ynt: Konaklama & Günübirlik Bilgi"
+  },
+  {
+    "id": 110,
+    "sender": "<musterihizmetleri@qnbsigorta.com.tr>",
+    "subject": "Hesap Bildirim Cetveli"
+  },
+  {
+    "id": 111,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "6 Ten-Second Mental Tricks That Feel Illegal to Know | Singh Bhai in ThinkDraft"
+  },
+  {
+    "id": 112,
+    "sender": "\"noreply.tkcustomer@thy.com\" <noreply.tkcustomer@thy.com>",
+    "subject": "TK-12941976 #S1-40395627# Geri Bildiriminiz Hk."
+  },
+  {
+    "id": 113,
+    "sender": "Turkish Airlines <onlineticket@mail.turkishairlines.com>",
+    "subject": "Türk Hava Yolları - Online Bilet - Bilgi Mesajı"
+  },
+  {
+    "id": 114,
+    "sender": "Turkish Airlines <mail@mail.turkishairlines.com>",
+    "subject": "Ticari elektronik ileti bilgilendirmesi"
+  },
+  {
+    "id": 115,
+    "sender": "Quora Digest <english-personalized-digest@quora.com>",
+    "subject": "What are an INTJs natural advantages?"
+  },
+  {
+    "id": 116,
+    "sender": "\"Müşteri İletişim Merkezi\" <customer2@thy.com>",
+    "subject": "##TK-12941976##"
+  },
+  {
+    "id": 117,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 201"
+  },
+  {
+    "id": 118,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "AI Side Hustles No One Talks About — And They’re Making People Rich Fast! | Mukeshbattula in ILLUMINATION"
+  },
+  {
+    "id": 119,
+    "sender": "Turkish Airlines <mail@mail.turkishairlines.com>",
+    "subject": "Login to Your Account From A New Device"
+  },
+  {
+    "id": 120,
+    "sender": "Quora Digest <english-personalized-digest@quora.com>",
+    "subject": "Are INTJs quick/fast learners?"
+  },
+  {
+    "id": 121,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "ChatGPT Is Poisoning Your Brain… | Jordan Gibbs"
+  },
+  {
+    "id": 122,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <musterihizmetleri@turk.net>",
+    "subject": "25 Mayıs Tarihli TurkNet Faturanız"
+  },
+  {
+    "id": 123,
+    "sender": "Quora Digest <english-personalized-digest@quora.com>",
+    "subject": "Why do Canadian universities have high acceptance rates?"
+  },
+  {
+    "id": 124,
+    "sender": "House of SuperStep <noreply@houseofsuperstep.com>",
+    "subject": "Siparişin Teslim Edildi ✅"
+  },
+  {
+    "id": 125,
+    "sender": "Quora Digest <english-personalized-digest@quora.com>",
+    "subject": "What does a broken INTJ look like?"
+  },
+  {
+    "id": 126,
+    "sender": "GSStore <bilgi@gsstore.org>",
+    "subject": "Takip Ettiğiniz Ürün Stokta"
+  },
+  {
+    "id": 127,
+    "sender": "Quora Digest <english-personalized-digest@quora.com>",
+    "subject": "I am from Nigeria, studying in Canada, Singapore, Germany, UK, Australia or Ireland, ...?"
+  },
+  {
+    "id": 128,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "What I’ve Learned Through 10 Months of Job Hunting After 45 | Berna A. in Women in Technology"
+  },
+  {
+    "id": 129,
+    "sender": "House of SuperStep <noreply@houseofsuperstep.com>",
+    "subject": "Siparişin Kargoya Verildi 📦"
+  },
+  {
+    "id": 130,
+    "sender": "\"e-Arşiv Faturanız\" <erenperakende@earsiv.qnbesolutions.com.tr>",
+    "subject": "EREN PERAKENDE VE TEKSTİL A. Ş.-DC Misinli (SuperStep) e-Arşiv Faturanız"
+  },
+  {
+    "id": 131,
+    "sender": "Quora <curiosity-noreply@quora.com>",
+    "subject": "More related to \"Is Canada College of Technology and Business legit? Can I get a visa with their accep...?\""
+  },
+  {
+    "id": 132,
+    "sender": "QNB <email@email.qnb.com.tr>",
+    "subject": "QNB - Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 133,
+    "sender": "\"amazon.com.tr\" <account-update@amazon.com.tr>",
+    "subject": "amazon.com.tr: Sign-in attempt"
+  },
+  {
+    "id": 134,
+    "sender": "Batuhan <batuhancomert2024@gmail.com>",
+    "subject": "Görsel"
+  },
+  {
+    "id": 135,
+    "sender": "House of SuperStep <noreply@houseofsuperstep.com>",
+    "subject": "Siparişin Alındı ✔"
+  },
+  {
+    "id": 136,
+    "sender": "House of SuperStep <noreply@houseofsuperstep.com>",
+    "subject": "[House of SuperStep] Ev'e Hoş Geldin 💖🙌"
+  },
+  {
+    "id": 137,
+    "sender": "Turkish Airlines <mail@mail.turkishairlines.com>",
+    "subject": "Miles&Smiles contact information update"
+  },
+  {
+    "id": 138,
+    "sender": "Turkish Airlines <mail@mail.turkishairlines.com>",
+    "subject": "E-mail Account Confirmation"
+  },
+  {
+    "id": 139,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 200"
+  },
+  {
+    "id": 140,
+    "sender": "support@getkeepsafe.com",
+    "subject": "Request #4401579: How would you rate the support you received?"
+  },
+  {
+    "id": 141,
+    "sender": "support@getkeepsafe.com",
+    "subject": "Keepsafe Support Re:IN-APP ACCOUNT DELETION REQUEST"
+  },
+  {
+    "id": 142,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Beyond Talent: the skill of Learning Hard Things | Silvia Ersetti"
+  },
+  {
+    "id": 143,
+    "sender": "Hepsiburada <merhaba@hepsiburada.com>",
+    "subject": "Faturanız oluşturuldu 📩"
+  },
+  {
+    "id": 144,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "Batuhan, develop more capable AI agents with Gemini 2.5 Flash"
+  },
+  {
+    "id": 145,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Paketiniz teslim edildi ✅"
+  },
+  {
+    "id": 146,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Paketiniz teslim edildi ✅"
+  },
+  {
+    "id": 147,
+    "sender": "Ask Data Dawn <ask-data-dawn@mail.beehiiv.com>",
+    "subject": "5 Data Analyst skills that MATTER in 2025"
+  },
+  {
+    "id": 148,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Paketiniz kargoya verildi 🚚💨"
+  },
+  {
+    "id": 149,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "4 Boring Startup Ideas Screaming to Be Built (and How to Build Them) | Divad Sanders in The Startup"
+  },
+  {
+    "id": 150,
+    "sender": "\"noreply.tkcustomer@thy.com\" <noreply.tkcustomer@thy.com>",
+    "subject": "TK-12886733 #S1-40161776# Geri Bildiriminiz Hk."
+  },
+  {
+    "id": 151,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Paketiniz kargoya verildi 🚚💨"
+  },
+  {
+    "id": 152,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Faturanız oluşturuldu 📩"
+  },
+  {
+    "id": 153,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "What I *Actually* Do As An Applied Scientist at Twitch/Amazon | Marina Wyss - Gratitude Driven in Data Science Collective"
+  },
+  {
+    "id": 154,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Faturanız oluşturuldu 📩"
+  },
+  {
+    "id": 155,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Siparişinizi aldık 🎉"
+  },
+  {
+    "id": 156,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Şifre değişikliği bilgilendirmesi"
+  },
+  {
+    "id": 157,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Hepsiburada hesabınızla yeni bir cihazda oturum açıldı"
+  },
+  {
+    "id": 158,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Hepsiburada Şifre Sıfırlama"
+  },
+  {
+    "id": 159,
+    "sender": "Uber <noreply@uber.com>",
+    "subject": "Önceden plan yapın ve havalimanına gitmek için Uber uygulamasıyla araç rezerve edin"
+  },
+  {
+    "id": 160,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.97.1 on iPhone"
+  },
+  {
+    "id": 161,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <noreply@turknet.net.tr>",
+    "subject": "TurkNet - Fatura Bilgilendirme"
+  },
+  {
+    "id": 162,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 199"
+  },
+  {
+    "id": 163,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The career game you didn’t know you were playing | Mindaugas Petrutis"
+  },
+  {
+    "id": 164,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "⚡️ High Performance Era, New Eng Blog, and more!"
+  },
+  {
+    "id": 165,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "You Will Stay a Mid-Level Manager Forever — Unless You Do This One Thing | Anil Jangra, MBA in Agile Insider"
+  },
+  {
+    "id": 166,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Why Your Machine Learning Projects Won’t Land You a Job | Marina Wyss - Gratitude Driven in Data Science Collective"
+  },
+  {
+    "id": 167,
+    "sender": "Quora Digest <english-personalized-digest@quora.com>",
+    "subject": "Can you tell me something about yourself?"
+  },
+  {
+    "id": 168,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "How I Broke into Data Science Without a STEM Degree | Claudia Ng in Data Science Collective"
+  },
+  {
+    "id": 169,
+    "sender": "Google Yerel Rehberler <noreply-local-guides@google.com>",
+    "subject": "Teşekkürler! İlk katkınız Haritalar'da fark yaratmaya başladı bile"
+  },
+  {
+    "id": 170,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "How to Learn 5,000 Words (and More) Without Flashcards | Viktoria Verde, PhD in Language Lab"
+  },
+  {
+    "id": 171,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 198"
+  },
+  {
+    "id": 172,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "How to Be Taken Seriously | Tessa Xie in Data Science Collective"
+  },
+  {
+    "id": 173,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Stop Applying for Jobs — Let Recruiters Find You on LinkedIn | Ritesh Gupta"
+  },
+  {
+    "id": 174,
+    "sender": "OpenAI <noreply@tm.openai.com>",
+    "subject": "ChatGPT - Planın yenilenmeyecek"
+  },
+  {
+    "id": 175,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Best Machine Learning Books & Courses to Get a Job | Egor Howell in Data Science Collective"
+  },
+  {
+    "id": 176,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "My Wife and I Cried — The Hidden Risk of Job Offers | Courtney Leigh in Writers’ Blokke"
+  },
+  {
+    "id": 177,
+    "sender": "ChatGPT <noreply@tm.openai.com>",
+    "subject": "ChatGPT parolanı değiştir"
+  },
+  {
+    "id": 178,
+    "sender": "ChatGPT <noreply@tm.openai.com>",
+    "subject": "Your ChatGPT password reset code is 858529"
+  },
+  {
+    "id": 179,
+    "sender": "ChatGPT <noreply@tm.openai.com>",
+    "subject": "Your ChatGPT code is 699193"
+  },
+  {
+    "id": 180,
+    "sender": "ChatGPT <noreply@tm.openai.com>",
+    "subject": "Your ChatGPT code is 699193"
+  },
+  {
+    "id": 181,
+    "sender": "ChatGPT <noreply@tm.openai.com>",
+    "subject": "Your ChatGPT password reset code is 858529"
+  },
+  {
+    "id": 182,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "50 Powerful Questions to Ask in 1:1s | Maryam Taheri"
+  },
+  {
+    "id": 183,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.95.1 on iPhone"
+  },
+  {
+    "id": 184,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 197"
+  },
+  {
+    "id": 185,
+    "sender": "OpenAI <noreply@tm.openai.com>",
+    "subject": "ChatGPT - Yeni planın"
+  },
+  {
+    "id": 186,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Google’s Data Science Agent: Can It Really Do Your Job? | Yu Dong"
+  },
+  {
+    "id": 187,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Please Stop Wasting Your 1:1s | Maryam Taheri"
+  },
+  {
+    "id": 188,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <musterihizmetleri@turk.net>",
+    "subject": "25 Nisan Tarihli TurkNet Faturanız"
+  },
+  {
+    "id": 189,
+    "sender": "BtcTurk Destek <destek@btcturk.com>",
+    "subject": "BtcTurk | Kripto Üyelik Doğrulama"
+  },
+  {
+    "id": 190,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Google just Punished GeekforGeeks | Adarsh Gupta in Write A Catalyst"
+  },
+  {
+    "id": 191,
+    "sender": "ICRYPEX <info@icrypex.com.tr>",
+    "subject": "Üyelik Bilgilendirme"
+  },
+  {
+    "id": 192,
+    "sender": "ICRYPEX <info@icrypex.com.tr>",
+    "subject": "E-Posta Doğrulama Kodu (Genel)"
+  },
+  {
+    "id": 193,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "📊 Interactive Offers, Job Hopping, and Vesting Schedule Trends"
+  },
+  {
+    "id": 194,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 196"
+  },
+  {
+    "id": 195,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "How to Run Large Language Models (LLMs) Locally: A Beginner’s Guide to Offline AI | Claudia Ng in Data Science Collective"
+  },
+  {
+    "id": 196,
+    "sender": "Turkish Airlines <onlineticket@mail.turkishairlines.com>",
+    "subject": "Koltuk Seçimi Detayları"
+  },
+  {
+    "id": 197,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Everything I Studied to Become a Machine Learning Scientist at Amazon with ZERO Tech Background | Marina Wyss - Gratitude Driven in Data Science Collective"
+  },
+  {
+    "id": 198,
+    "sender": "Quora Digest <english-personalized-digest@quora.com>",
+    "subject": "What is the narcissist’s last trick?"
+  },
+  {
+    "id": 199,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "Build faster with Gemini 2.5 Flash and Veo 2"
+  },
+  {
+    "id": 200,
+    "sender": "Balsamiq Support <support@balsamiq.com>",
+    "subject": "Your Balsamiq Cloud data is going to be deleted tomorrow"
+  },
+  {
+    "id": 201,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The 1 most depressed state in America (don’t move here) | James Julian in Well Travelled"
+  },
+  {
+    "id": 202,
+    "sender": "Turkish Airlines <onlineticket@mail.turkishairlines.com>",
+    "subject": "Türk Hava Yolları - Online Bilet - Bilgi Mesajı"
+  },
+  {
+    "id": 203,
+    "sender": "Turkish Airlines <mail@mail.turkishairlines.com>",
+    "subject": "Ticari elektronik ileti bilgilendirmesi"
+  },
+  {
+    "id": 204,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "DIY AI & ML: Decision Trees for Classification | Jacob Ingle in Level Up Coding"
+  },
+  {
+    "id": 205,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from ChromeDesktop on Windows"
+  },
+  {
+    "id": 206,
+    "sender": "Ask Data Dawn <ask-data-dawn@mail.beehiiv.com>",
+    "subject": "Are you making these common interview mistakes?"
+  },
+  {
+    "id": 207,
+    "sender": "QNB <email@email.qnb.com.tr>",
+    "subject": "QNB -  Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 208,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Google’s Data Science Agent: Data Scientists are doomed | Mehul Gupta in Data Science in Your Pocket"
+  },
+  {
+    "id": 209,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <noreply@turknet.net.tr>",
+    "subject": "TurkNet- Destek talebinizle ilgili son gelişmeler"
+  },
+  {
+    "id": 210,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <noreply@turknet.net.tr>",
+    "subject": "TurkNet- Destek talebinizle ilgili son gelişmeler"
+  },
+  {
+    "id": 211,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <noreply@turknet.net.tr>",
+    "subject": "TurkNet- Destek talebinizle ilgili son gelişmeler"
+  },
+  {
+    "id": 212,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 195"
+  },
+  {
+    "id": 213,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <noreply@turknet.net.tr>",
+    "subject": "TurkNet- Destek talebinizle ilgili son gelişmeler"
+  },
+  {
+    "id": 214,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <noreply@turknet.net.tr>",
+    "subject": "TurkNet- Destek talebinizle ilgili son gelişmeler"
+  },
+  {
+    "id": 215,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The “No Hire” List Is Real — And This Might Be Why You’re Not Hired | Ossiana Tepfenhart"
+  },
+  {
+    "id": 216,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.93.0 on iPhone"
+  },
+  {
+    "id": 217,
+    "sender": "Balsamiq Support <support@balsamiq.com>",
+    "subject": "Your Balsamiq Cloud data is going to be deleted in 7 days"
+  },
+  {
+    "id": 218,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "When AIs Start Believing Other AIs’ Hallucinations, We’re F&#%ed | Clayton Moulynox in The Generator"
+  },
+  {
+    "id": 219,
+    "sender": "QNB <email@email.qnb.com.tr>",
+    "subject": "QNB -  Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 220,
+    "sender": "QNB <email@email.qnb.com.tr>",
+    "subject": "QNB - Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 221,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <noreply@turknet.net.tr>",
+    "subject": "TurkNet - Fatura Bilgilendirme"
+  },
+  {
+    "id": 222,
+    "sender": "Anvi Sharma <anvi@newsletters.analyticsvidhya.com>",
+    "subject": "Batuhan, Start building real AI solutions today"
+  },
+  {
+    "id": 223,
+    "sender": "<musterihizmetleri@qnbsigorta.com.tr>",
+    "subject": "Otomatik Katılım Sertifikası Çalışan Bilgilendirme Notu Hakkında"
+  },
+  {
+    "id": 224,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 194"
+  },
+  {
+    "id": 225,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "A Tech Tsunami is Coming Very Soon.. | Shubhransh Rai in Quantum Information Review"
+  },
+  {
+    "id": 226,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Forget AGI. Forget Agents. You have No Idea What is Coming | Somnath Singh in Level Up Coding"
+  },
+  {
+    "id": 227,
+    "sender": "Ask Data Dawn <ask-data-dawn@mail.beehiiv.com>",
+    "subject": "My story on becoming a Business Analyst at Amazon"
+  },
+  {
+    "id": 228,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "You Can Make Money With AI Without Quitting Your Job | Nipuna Maduranga in Learn AI for Profit"
+  },
+  {
+    "id": 229,
+    "sender": "QNB <email@email.qnb.com.tr>",
+    "subject": "Bilgilendirme - 1 - 31 Mart 2025 Dönemine Ait Yatırım Ürünleri Ekstreniz"
+  },
+  {
+    "id": 230,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.89.0 on iPhone"
+  },
+  {
+    "id": 231,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 193"
+  },
+  {
+    "id": 232,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Tech Companies Are Erasing Open Job Postings Now | Joe Procopio in Entrepreneurship Handbook"
+  },
+  {
+    "id": 233,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "How to Explain Each Core Machine Learning Model in an Interview | Abhay Parashar in The Pythoneers"
+  },
+  {
+    "id": 234,
+    "sender": "Google <no-reply@google.com>",
+    "subject": "✅ Batuhan, Apple iPhone cihazınızın kurulumunu en yeni Google uygulamalarıyla tamamlayın"
+  },
+  {
+    "id": 235,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 236,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "18 Cheat Codes to Life, to Put You 10 Years Ahead of 90% Of People | Olly J in Change Your Mind Change Your Life"
+  },
+  {
+    "id": 237,
+    "sender": "Uber <noreply@uber.com>",
+    "subject": "Uber uygulamasını 40% indirim fırsatıyla yakından tanıyın"
+  },
+  {
+    "id": 238,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Gen Z Are Getting Fired Left and Right | If I Ain't Readin'"
+  },
+  {
+    "id": 239,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 192"
+  },
+  {
+    "id": 240,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Hypothesis Testing Explained (How I Wish It Was Explained to Me) | Samuele Mazzanti in TDS Archive"
+  },
+  {
+    "id": 241,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The Buddha’s Most Disturbing Metaphor Reveals What’s Blocking Your Inner Happiness | Rami Dhanoa in The Taoist Online"
+  },
+  {
+    "id": 242,
+    "sender": "QNB <email@email.qnb.com.tr>",
+    "subject": "QNB -  Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 243,
+    "sender": "QNB <email@email.qnb.com.tr>",
+    "subject": "QNB - Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 244,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <musterihizmetleri@turk.net>",
+    "subject": "25 Mart Tarihli TurkNet Faturanız"
+  },
+  {
+    "id": 245,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Don’t Bother Applying to Data Science Jobs in 2025 | Marina Wyss - Gratitude Driven in Data Science Collective"
+  },
+  {
+    "id": 246,
+    "sender": "Ask Data Dawn <ask-data-dawn@mail.beehiiv.com>",
+    "subject": "5 most in-demand Data Science skills in 2025"
+  },
+  {
+    "id": 247,
+    "sender": "Balsamiq Support <support@balsamiq.com>",
+    "subject": "Your Balsamiq Cloud trial has expired"
+  },
+  {
+    "id": 248,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "Batuhan, try making images with Gemini 2.0 Flash"
+  },
+  {
+    "id": 249,
+    "sender": "QNB <email@email.qnb.com.tr>",
+    "subject": "QNB - Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 250,
+    "sender": "Uber <uber@uber.com>",
+    "subject": "Uber'den size özel indirim!"
+  },
+  {
+    "id": 251,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 191"
+  },
+  {
+    "id": 252,
+    "sender": "Uber <uber@uber.com>",
+    "subject": "5 yolculukta %30 indirimin keyfini çıkarın"
+  },
+  {
+    "id": 253,
+    "sender": "QNB Sigorta <qnbsigorta@qnbsigorta.com.tr>",
+    "subject": "QNB Sigorta Mobil'e Artık Banka Şifrenizle de Girebilirsiniz 📲"
+  },
+  {
+    "id": 254,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "After Getting Laid Off in Tech, Here’s How I Got a New Job in Six Weeks | Gary Niemen in ILLUMINATION"
+  },
+  {
+    "id": 255,
+    "sender": "Uber <uber@uber.com>",
+    "subject": "Önceliğimiz sizsiniz Batuhan"
+  },
+  {
+    "id": 256,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "📱 Big App Update, M&A is 🔥, Trimodal Recap, and more"
+  },
+  {
+    "id": 257,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 258,
+    "sender": "Michael Truell <michaelt@cursor.so>",
+    "subject": "Making the most of Cursor"
+  },
+  {
+    "id": 259,
+    "sender": "Uber <uber@uber.com>",
+    "subject": "Gününüze göre tasarlanmış yolculuklarımız var"
+  },
+  {
+    "id": 260,
+    "sender": "Lucid <account@app.lucid.co>",
+    "subject": "Get started in Lucidchart"
+  },
+  {
+    "id": 261,
+    "sender": "Uber <uber@uber.com>",
+    "subject": "Batuhan, seyahatinizi biz hallediyoruz"
+  },
+  {
+    "id": 262,
+    "sender": "Google <no-reply@google.com>",
+    "subject": "✅ Batuhan, Apple iPhone cihazınızın kurulumunu en yeni Google uygulamalarıyla tamamlayın"
+  },
+  {
+    "id": 263,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.85.0 on iPhone"
+  },
+  {
+    "id": 264,
+    "sender": "X <info@x.com>",
+    "subject": "Your X account has been reactivated!"
+  },
+  {
+    "id": 265,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 266,
+    "sender": "Uber <uber@uber.com>",
+    "subject": "Batuhan, yolculuğunuzun ücreti ne kadar?"
+  },
+  {
+    "id": 267,
+    "sender": "Uber <uber@uber.com>",
+    "subject": "Ödeme bilgilerinizi ekleyin Batuhan"
+  },
+  {
+    "id": 268,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <noreply@turknet.net.tr>",
+    "subject": "TurkNet - Fatura Bilgilendirme"
+  },
+  {
+    "id": 269,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 190"
+  },
+  {
+    "id": 270,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "3 Data Science Projects That Got Me 12 Interviews. And 1 That Got Me in Trouble. | Zach Quinn in Pipeline: Your Data Engineering Resource"
+  },
+  {
+    "id": 271,
+    "sender": "Uber <uber@uber.com>",
+    "subject": "Batuhan, yolculuk yapmaya hazır mısınız?"
+  },
+  {
+    "id": 272,
+    "sender": "Uber <admin@uber.com>",
+    "subject": "Uber hesabınızın e-posta adresini doğrulayın"
+  },
+  {
+    "id": 273,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "4 Lifechanging ChatGPT Features You May Not Know About (Feb. 2025) | Jordan Gibbs"
+  },
+  {
+    "id": 274,
+    "sender": "TurkNet <musterihizmetleri@e.turk.net>",
+    "subject": "Önemli Bilgilendirme"
+  },
+  {
+    "id": 275,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The 5-Second Conversation Hack That Makes People Instantly Like You | Alessia Fransisca in Hello, Love"
+  },
+  {
+    "id": 276,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "An Honest Recruiter Told Me Why Most Job Seekers Don’t Get Hired | Joe Procopio in Entrepreneurship Handbook"
+  },
+  {
+    "id": 277,
+    "sender": "Batuhan <batuhancomert2024@gmail.com>",
+    "subject": "SWEDesign"
+  },
+  {
+    "id": 278,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 189"
+  },
+  {
+    "id": 279,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "50 Easy Ways to Make 2025 Better | Harsh Darji"
+  },
+  {
+    "id": 280,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "5 Mental Models That Will Take Your Leadership from Good to Great | Gaurav Jain in The Good Boss"
+  },
+  {
+    "id": 281,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The Era of High-Paying Tech Jobs is Over | Somnath Singh in Level Up Coding"
+  },
+  {
+    "id": 282,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "My 7 Sources of Income as a Data Scientist | Egor Howell in TDS Archive"
+  },
+  {
+    "id": 283,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "Unpacking Tech’s Trimodal Pay Distribution ft. The Pragmatic Engineer 🎉"
+  },
+  {
+    "id": 284,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The Problem with Automated Decision-Making | Eric Sandosham, Ph.D."
+  },
+  {
+    "id": 285,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 188"
+  },
+  {
+    "id": 286,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "You’re Not as Good a Leader as You Think You Are. | Matt DiGeronimo in Management Matters"
+  },
+  {
+    "id": 287,
+    "sender": "Medium Membership <members@medium.com>",
+    "subject": "One more step: Medium for less than $1/week"
+  },
+  {
+    "id": 288,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <musterihizmetleri@turk.net>",
+    "subject": "25 Şubat Tarihli TurkNet Faturanız"
+  },
+  {
+    "id": 289,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "How to Get A Job in Data Science/Machine Learning With No Previous Experience | Marina Wyss - Gratitude Driven in TDS Archive"
+  },
+  {
+    "id": 290,
+    "sender": "",
+    "subject": ""
+  },
+  {
+    "id": 291,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Doubting If YOU Can Become a Data Scientist or Machine Learning En? | Marina Wyss - Gratitude Driven in Data Science Collective"
+  },
+  {
+    "id": 292,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Why “Statistical Significance” Is Pointless | Samuele Mazzanti in TDS Archive"
+  },
+  {
+    "id": 293,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "🗺️ Europe Heatmap Visualization, Med Device Salaries, Tech Compensation Trends"
+  },
+  {
+    "id": 294,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Say What You Mean and Mean What You Say | Matt Fujimoto in Philosophy Today"
+  },
+  {
+    "id": 295,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 187"
+  },
+  {
+    "id": 296,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "I Attended NVIDIA’s Lecture to Find NeMo (Guardrails) | Jaemin Han in AI Advances"
+  },
+  {
+    "id": 297,
+    "sender": "Moqups <support@moqups.com>",
+    "subject": "Happy to have you with us!"
+  },
+  {
+    "id": 298,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 299,
+    "sender": "",
+    "subject": ""
+  },
+  {
+    "id": 300,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from Safari on iPhone"
+  },
+  {
+    "id": 301,
+    "sender": "X <info@x.com>",
+    "subject": "Password reset request"
+  },
+  {
+    "id": 302,
+    "sender": "",
+    "subject": ""
+  },
+  {
+    "id": 303,
+    "sender": "Library <no-reply@z-lib.vg>",
+    "subject": "Your verification code"
+  },
+  {
+    "id": 304,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The Portfolio that Got Me a Data Scientist Job | Matt Chapman in TDS Archive"
+  },
+  {
+    "id": 305,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "Batuhan, Gemini 2.0 Flash is now production-ready – start building!"
+  },
+  {
+    "id": 306,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "How to Read Someone’s Personality in 10 Seconds (Backed by Psychology) | Singh Bhai"
+  },
+  {
+    "id": 307,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "I’m a Professional Editor and These Phrases Tell Me You Used ChatGPT | Maria Cassano in The Writing Cooperative"
+  },
+  {
+    "id": 308,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Data Science All Algorithm Cheatsheet 2025 | Ritesh Gupta in Artificial Intelligence in Plain English"
+  },
+  {
+    "id": 309,
+    "sender": "<pegasus@flypgs.com>",
+    "subject": "Mobil Biniş Kartınız"
+  },
+  {
+    "id": 310,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 186"
+  },
+  {
+    "id": 311,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "20 Advanced Statistical Approaches Every Data Scientist Should Know 🐱‍🚀 | Sarowar Jahan Saurav"
+  },
+  {
+    "id": 312,
+    "sender": "Pegasus <pegasus@flypgs.com>",
+    "subject": "Express Bagaj Bilgilendirme"
+  },
+  {
+    "id": 313,
+    "sender": "<reservation@flypgs.com>",
+    "subject": "Pegasus Hava Yolları Aktivasyon Kodu"
+  },
+  {
+    "id": 314,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "How My Data Science Job Changed after ChatGPT | Lucas Samba in Artificial Intelligence in Plain English"
+  },
+  {
+    "id": 315,
+    "sender": "<pegasus@flypgs.com>",
+    "subject": "Mobil Biniş Kartınız"
+  },
+  {
+    "id": 316,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "Favori İlanınızın Fiyatı Düştü"
+  },
+  {
+    "id": 317,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The 5 paid subscriptions I actually use in 2025 as a Staff Software Engineer | Jacob Bennett in Level Up Coding"
+  },
+  {
+    "id": 318,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.79.2 on iPhone"
+  },
+  {
+    "id": 319,
+    "sender": "<pegasus@flypgs.com>",
+    "subject": "A4H7HZ Rezervasyon Numaralı Elektronik Biletiniz"
+  },
+  {
+    "id": 320,
+    "sender": "<pegasus@flypgs.com>",
+    "subject": "Pegasus Havayollari Bilet Bilginiz"
+  },
+  {
+    "id": 321,
+    "sender": "<pegasus@flypgs.com>",
+    "subject": "A4GKLR Rezervasyon Numaralı Elektronik Biletiniz"
+  },
+  {
+    "id": 322,
+    "sender": "<pegasus@flypgs.com>",
+    "subject": "Pegasus Havayollari Bilet Bilginiz"
+  },
+  {
+    "id": 323,
+    "sender": "<pegasus@flypgs.com>",
+    "subject": "Pegasus'la ucusunuz - online check-in ve ucusla ilgili hatirlatmalar"
+  },
+  {
+    "id": 324,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 185"
+  },
+  {
+    "id": 325,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The ‘2–7–30' Trick For Remembering 90% of What You Read or Learn | Hallel K. in EduCreate"
+  },
+  {
+    "id": 326,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Telefon numaranız hesabınızdan kaldırıldı."
+  },
+  {
+    "id": 327,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "I Wrote On LinkedIn for 100 Days. Now I Never Worry About Finding a Job. | Alexander Nguyen"
+  },
+  {
+    "id": 328,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Seven things almost no one does that will attract people to you | Alex Mathers"
+  },
+  {
+    "id": 329,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Doing Remote Work? Be Scared. Be Very Scared | Anshul Kumar in Bouncin’ and Behavin’ Blogs"
+  },
+  {
+    "id": 330,
+    "sender": "Google Cloud <CloudPlatform-noreply@google.com>",
+    "subject": "[Action Required] Mandatory multi-factor authentication for Google Cloud console, gcloud CLI, and Firebase console access"
+  },
+  {
+    "id": 331,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "5 Books That Will Make You Smarter Than 97% Of People | Axel Casas, PhD Candidate in Cogni.tiva"
+  },
+  {
+    "id": 332,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.79.0 on iPhone"
+  },
+  {
+    "id": 333,
+    "sender": "\"Supplementler.com\" <supplementler@e.supplementler.com>",
+    "subject": "Supplementler.com. Siparişiniz alınmıştır - 02.02.2025 19:25"
+  },
+  {
+    "id": 334,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 184"
+  },
+  {
+    "id": 335,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Eight uncomfortable truths about why some people are instantly likeable | Alex Mathers"
+  },
+  {
+    "id": 336,
+    "sender": "QNB <email@email.qnb.com.tr>",
+    "subject": "QNB - Para Transferi Bildiriminiz"
+  },
+  {
+    "id": 337,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "A Day in the Life of a Senior Data Scientist | Matt Przybyla in Towards Data Science"
+  },
+  {
+    "id": 338,
+    "sender": "Anvi Sharma <anvi@newsletters.analyticsvidhya.com>",
+    "subject": "Accelerate Your Career with AI—Your Roadmap is Ready, Batuhan!"
+  },
+  {
+    "id": 339,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <musterihizmetleri@turk.net>",
+    "subject": "25 Ocak Tarihli TurkNet Faturanız"
+  },
+  {
+    "id": 340,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Lack and The Art of a Dominant Class | Kevin Thomas in deterritorialization"
+  },
+  {
+    "id": 341,
+    "sender": "<efatura@zorlugayrimenkul.com>",
+    "subject": "Elektronik Fatura Gönderimi"
+  },
+  {
+    "id": 342,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The Brutal Truth About Money (You Probably Need More) | Dan Koe"
+  },
+  {
+    "id": 343,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 183"
+  },
+  {
+    "id": 344,
+    "sender": "<iys@zorluworld.com>",
+    "subject": "Zorlu Center - Email Confirmation"
+  },
+  {
+    "id": 345,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "How many Rs in “carry forward”? ChatGPT, Claude, and Copilot all fail a simple letter counting test | Jim the AI Whisperer in Generative AI"
+  },
+  {
+    "id": 346,
+    "sender": "<musterihizmetleri@qnbsigorta.com.tr>",
+    "subject": "Otomatik Katılım Sertifikası Çalışan Bilgilendirme Notu Hakkında"
+  },
+  {
+    "id": 347,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Never Had a Girlfriend? 15 Honest Reasons Why You’re Still Single | Oleksandr Berdychevskyi"
+  },
+  {
+    "id": 348,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Avoid these ten subtle behaviours if you want people to respect you more | Alex Mathers"
+  },
+  {
+    "id": 349,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Fooled  by statistical significance | Cassie Kozyrkov in Towards Data Science"
+  },
+  {
+    "id": 350,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "I’m 28. Here’s What I Would Tell My 18-Year-Old Self | Dan Koe"
+  },
+  {
+    "id": 351,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.76.1 on iPhone"
+  },
+  {
+    "id": 352,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 182"
+  },
+  {
+    "id": 353,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "My Honest Advice for Someone Who Wants to Become a Data Scientist | Egor Howell in Towards Data Science"
+  },
+  {
+    "id": 354,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "🌟 End of Year Report 2024, Europe Heatmap, 2025 Outlook"
+  },
+  {
+    "id": 355,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "Favori İlanınızın Fiyatı Düştü"
+  },
+  {
+    "id": 356,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Statistics for Data Science Interview Questions and Answers | Sanjay Kumar PhD"
+  },
+  {
+    "id": 357,
+    "sender": "QNB <email@email.qnb.com.tr>",
+    "subject": "QNB -  Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 358,
+    "sender": "QNB <email@email.qnb.com.tr>",
+    "subject": "QNB - Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 359,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <noreply@turknet.net.tr>",
+    "subject": "TurkNet - Fatura Bilgilendirme"
+  },
+  {
+    "id": 360,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Shining a Spotlight On Different Types Of Student Progress | Debbie Thompson in EduCreate"
+  },
+  {
+    "id": 361,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 181"
+  },
+  {
+    "id": 362,
+    "sender": "<musterihizmetleri@qnbsigorta.com.tr>",
+    "subject": "Otomatik Katılım Sertifikası Çalışan Bilgilendirme Notu Hakkında"
+  },
+  {
+    "id": 363,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "How to Stand Out in The Data Science Job Market | Egor Howell in Towards Data Science"
+  },
+  {
+    "id": 364,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "A Dozen Regrets From a 66-Year-Old Woman | Debra Anazonwu in Crow’s Feet: Life As We Age"
+  },
+  {
+    "id": 365,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "Favori İlanınızın Fiyatı Düştü"
+  },
+  {
+    "id": 366,
+    "sender": "SACHANE <info@t.sachane.com>",
+    "subject": "1220127 nolu siparişinizin faturası."
+  },
+  {
+    "id": 367,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "2024 Annual Pay Report"
+  },
+  {
+    "id": 368,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "2034: We Are Teaching Children With Obsolete Tools | David Rodenas PhD"
+  },
+  {
+    "id": 369,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from SafariMobileIos on iPhone"
+  },
+  {
+    "id": 370,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.74.0 on iPhone"
+  },
+  {
+    "id": 371,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <noreply@turknet.net.tr>",
+    "subject": "TurkNet- Destek talebinizle ilgili son gelişmeler"
+  },
+  {
+    "id": 372,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 180"
+  },
+  {
+    "id": 373,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <musterihizmetleri@turk.net>",
+    "subject": "25 Aralık Tarihli TurkNet Faturanız"
+  },
+  {
+    "id": 374,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Top 12 Skills Data Scientists Need to Succeed in 2025 | Benjamin Bodner in Towards Data Science"
+  },
+  {
+    "id": 375,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Dashboards Suck — How To Make Them Suck Less | Sven Balnojan"
+  },
+  {
+    "id": 376,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Whose Job Is It To Produce Actionable Insights? | Eric Sandosham, Ph.D."
+  },
+  {
+    "id": 377,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.72.2 on iPhone"
+  },
+  {
+    "id": 378,
+    "sender": "SACHANE <info@t.sachane.com>",
+    "subject": "1220127'nolu siparişiniz işleme alınmıştır."
+  },
+  {
+    "id": 379,
+    "sender": "SACHANE <no-reply@sachane.com>",
+    "subject": "Lütfen Hesabını Doğrula!"
+  },
+  {
+    "id": 380,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Ten predictions for data science and AI in 2025 | Jason Tamara Widjaja in Towards Data Science"
+  },
+  {
+    "id": 381,
+    "sender": "Garanti BBVA <bilgi@bilgi.garantibbva.com.tr>",
+    "subject": "Garanti BBVA Mobil'den artık kolayca Garanti BBVA Kripto'lu olabilirsiniz!"
+  },
+  {
+    "id": 382,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 179"
+  },
+  {
+    "id": 383,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The Stone That Shook Christianity to Its Core | Tanner the Humanist"
+  },
+  {
+    "id": 384,
+    "sender": "QNB <email@email.qnb.com.tr>",
+    "subject": "QNB - Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 385,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "4 Years of Data Science in 8 Minutes | Egor Howell in Towards Data Science"
+  },
+  {
+    "id": 386,
+    "sender": "musterihizmetleri@turk.net",
+    "subject": "Turknet Değerlendirme Anketi"
+  },
+  {
+    "id": 387,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <noreply@turknet.net.tr>",
+    "subject": "TurkNet- Destek talebinizle ilgili son gelişmeler"
+  },
+  {
+    "id": 388,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <noreply@turknet.net.tr>",
+    "subject": "TurkNet- Destek talebinizle ilgili son gelişmeler"
+  },
+  {
+    "id": 389,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <noreply@turknet.net.tr>",
+    "subject": "TurkNet- Destek talebinizle ilgili son gelişmeler"
+  },
+  {
+    "id": 390,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <noreply@turknet.net.tr>",
+    "subject": "TurkNet- Destek talebinizle ilgili son gelişmeler"
+  },
+  {
+    "id": 391,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.72.1 on iPhone"
+  },
+  {
+    "id": 392,
+    "sender": "Aksigorta <no-reply@aksigorta.com.tr>",
+    "subject": "Poliçenizin Bitişine 30 Gün Kaldı"
+  },
+  {
+    "id": 393,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Data Science Is The New Blue Collar Work | Eric Sandosham, Ph.D."
+  },
+  {
+    "id": 394,
+    "sender": "\"Vitaminler.com\" <vitaminler@e.vitaminler.com>",
+    "subject": "Vitaminler.com. Siparişiniz alınmıştır - 23.12.2024 21:59"
+  },
+  {
+    "id": 395,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Google Hesabınız başarıyla kurtarıldı"
+  },
+  {
+    "id": 396,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 178"
+  },
+  {
+    "id": 397,
+    "sender": "Anthropic Team <team@email.anthropic.com>",
+    "subject": "New updates to Claude.ai"
+  },
+  {
+    "id": 398,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.72.1 on iPhone"
+  },
+  {
+    "id": 399,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Don’t Become a Data Engineer in 2025! | Shashwath Shenoy"
+  },
+  {
+    "id": 400,
+    "sender": "Turkcell <musteri@haberdaret.turkcell.com.tr>",
+    "subject": "Kullanım Şartları"
+  },
+  {
+    "id": 401,
+    "sender": "musterihizmetleri@turk.net",
+    "subject": "TurkNet Ailesine Hoşgeldiniz"
+  },
+  {
+    "id": 402,
+    "sender": "\"TurkNet Müşteri Hizmetleri\" <musterihizmet@turk.net>",
+    "subject": "E-posta adresinizi doğrulamanız gerekiyor!"
+  },
+  {
+    "id": 403,
+    "sender": "musterihizmetleri@turk.net",
+    "subject": "TurkNet'e Başvurunuzu Aldık"
+  },
+  {
+    "id": 404,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The Mall Map Mystery: Why ‘You Are Here’ Rarely Helps | Raghavendra S"
+  },
+  {
+    "id": 405,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "Levels.fyi For Every Engineer 💼"
+  },
+  {
+    "id": 406,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "My Honest Advice to Someone Who Wants to Start Over | KayDee in The Taoist Online"
+  },
+  {
+    "id": 407,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 177"
+  },
+  {
+    "id": 408,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Floating Wind Farms as New Tool for the Oil and Gas Industry to Decarbonise | SK Lee in The New Climate."
+  },
+  {
+    "id": 409,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "10 Practices to Master the Art of Active Listening | Vinita in Code Like A Girl"
+  },
+  {
+    "id": 410,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Will Bluesky Embrace Advertising? Yes, But the Question Is How. | John Battelle"
+  },
+  {
+    "id": 411,
+    "sender": "berkinbd17@gmail.com",
+    "subject": ""
+  },
+  {
+    "id": 412,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.70.0 on iPhone"
+  },
+  {
+    "id": 413,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 176"
+  },
+  {
+    "id": 414,
+    "sender": "Amanda at DataCamp <team@datacamp.com>",
+    "subject": "Top AI courses and more!"
+  },
+  {
+    "id": 415,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The Natural Logarithm Can Be Expressed as an Infinite Product! | Kasper Müller in Cantor’s Paradise"
+  },
+  {
+    "id": 416,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 175"
+  },
+  {
+    "id": 417,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "10 ChatGPT Prompts for Reading and Analysing Academic Papers | Vugar Ibrahimov"
+  },
+  {
+    "id": 418,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "📈 Product Manager Pay Trends, Heatmap Updates, Upcoming End of Year Report"
+  },
+  {
+    "id": 419,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "How Facebook Sets Goals | Analytics at Meta"
+  },
+  {
+    "id": 420,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 174"
+  },
+  {
+    "id": 421,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "What Are So Many Rogue Planets Doing in the Heart Of Orion? | Alastair Williams"
+  },
+  {
+    "id": 422,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Introducing GattinoPleths: New Choropleths For Gattino | Emma Boudreau in chifi"
+  },
+  {
+    "id": 423,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Rebels Wanted: Why Pushing Back Matters in the Workplace | Victoria Corindi 🌻 in Code Like A Girl"
+  },
+  {
+    "id": 424,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "How to bring back luxury shoppers? Try having more fun. | Michelle Wiles 🪄📈"
+  },
+  {
+    "id": 425,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "11 Signs the Universe is Communicating with You | Yolk Gemini in ILLUMINATION"
+  },
+  {
+    "id": 426,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "What We Should Have Learned in School But Never Did | Srinivas Rao in Mission.org"
+  },
+  {
+    "id": 427,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Jeff Bezos Says the 1-Hour Rule Makes Him Smarter. New Neuroscience Says He’s Right | Jessica Stillman"
+  },
+  {
+    "id": 428,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 173"
+  },
+  {
+    "id": 429,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Linear Algebra Concepts Every Data Scientist Should Know | Benedict Neo in bitgrit Data Science Publication"
+  },
+  {
+    "id": 430,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "This LinkedIn Post Got Me 12 Job Offers | Murphy's Law in Funny, Inc."
+  },
+  {
+    "id": 431,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.67.1 on iPhone"
+  },
+  {
+    "id": 432,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Alışverişinizden memnun kaldınız mı?"
+  },
+  {
+    "id": 433,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The End of Programming | Matt Welsh in Level Up Coding"
+  },
+  {
+    "id": 434,
+    "sender": "Hepsiburada <merhaba@hepsiburada.com>",
+    "subject": "Faturanız oluşturuldu 📩"
+  },
+  {
+    "id": 435,
+    "sender": "QNB <qnb@kampanya.qnb.com.tr>",
+    "subject": "QNB'den Kasım Ayı Fırsatları!"
+  },
+  {
+    "id": 436,
+    "sender": "\"IKEA Türkiye\" <noreply@order.email.ikea.com.tr>",
+    "subject": "IKEA İnternet Mağazası - Siparişiniz Teslim Edildi"
+  },
+  {
+    "id": 437,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "I used OpenAI’s o1 model to develop a trading strategy. It is DESTROYING the market | Austin Starks in DataDrivenInvestor"
+  },
+  {
+    "id": 438,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Paketiniz teslim edildi ✅"
+  },
+  {
+    "id": 439,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Paketiniz teslim edildi ✅"
+  },
+  {
+    "id": 440,
+    "sender": "IKEA e-Fatura <uyumsoft@erp.uyumsoftmail.com>",
+    "subject": "IKEA E-ARŞİV FATURA"
+  },
+  {
+    "id": 441,
+    "sender": "\"IKEA Türkiye\" <noreply@order.email.ikea.com.tr>",
+    "subject": "IKEA İnternet Mağazası - Siparişiniz kargo firmasına teslim edildi"
+  },
+  {
+    "id": 442,
+    "sender": "\"Deniz Sonbay (Google Dokümanlar üzerinden)\" <drive-shares-dm-noreply@google.com>",
+    "subject": "Şu doküman sizinle paylaşıldı: \"November5_RequirementsAnalysisClassNotes\""
+  },
+  {
+    "id": 443,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Paketiniz kargoya verildi 🚚💨"
+  },
+  {
+    "id": 444,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Paketiniz kargoya verildi 🚚💨"
+  },
+  {
+    "id": 445,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Faturanız oluşturuldu 📩"
+  },
+  {
+    "id": 446,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.66.2 on iPhone"
+  },
+  {
+    "id": 447,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Faturanız oluşturuldu 📩"
+  },
+  {
+    "id": 448,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "İlk siparişini verdin🎉👏😄"
+  },
+  {
+    "id": 449,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Siparişinizi aldık 🎉"
+  },
+  {
+    "id": 450,
+    "sender": "Hepsiburada <merhaba@newsletter.hepsiburada.com>",
+    "subject": "Hepsiburada hesabınızla yeni bir cihazda oturum açıldı"
+  },
+  {
+    "id": 451,
+    "sender": "\"IKEA Türkiye\" <noreply@order.email.ikea.com.tr>",
+    "subject": "IKEA İnternet Mağazası - Sipariş Onay"
+  },
+  {
+    "id": 452,
+    "sender": "\"IKEA Türkiye\" <noreply@order.email.ikea.com.tr>",
+    "subject": "IKEA İnternet Mağazası – Üyelik Aktivasyon Onay"
+  },
+  {
+    "id": 453,
+    "sender": "\"IKEA Türkiye\" <noreply@order.email.ikea.com.tr>",
+    "subject": "IKEA İnternet Mağazası Üyelik Aktivasyonunuz"
+  },
+  {
+    "id": 454,
+    "sender": "QNB <qnb@kampanya.qnb.com.tr>",
+    "subject": "Saygı, minnet ve özlemle"
+  },
+  {
+    "id": 455,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 172"
+  },
+  {
+    "id": 456,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The Lana Del Rey Paradox and Why We Enjoy Sad Music and Art | Jess the Avocado in Counter Arts"
+  },
+  {
+    "id": 457,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.65.2 on iPhone"
+  },
+  {
+    "id": 458,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Google Hesabınız başarıyla kurtarıldı"
+  },
+  {
+    "id": 459,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Why I no longer believe we can say academics are the smartest people | Arthur Loureiro"
+  },
+  {
+    "id": 460,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "How Old Is Your Body? Stand On One Leg and Find Out | F. Perry Wilson, MD MSCE"
+  },
+  {
+    "id": 461,
+    "sender": "QNB <email@email.qnb.com.tr>",
+    "subject": "QNB -  Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 462,
+    "sender": "QNB <email@email.qnb.com.tr>",
+    "subject": "QNB - Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 463,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "If Trump Wins, Is It Game Over? | David Todd McCarty in Rome Magazine"
+  },
+  {
+    "id": 464,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 171"
+  },
+  {
+    "id": 465,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The Most Terrifying Halloween Costume? Try Being a Human | Ricky Lanusse in Southern Winds"
+  },
+  {
+    "id": 466,
+    "sender": "\"Batuhan Cömert\" <comert.batuhan@outlook.com>",
+    "subject": "Paper1"
+  },
+  {
+    "id": 467,
+    "sender": "QNB <email@email.qnb.com.tr>",
+    "subject": "QNB - Haciz Bilgilendirmeleri"
+  },
+  {
+    "id": 468,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Realizing Nobody Cares About Me Changed My Life… | KayDee in Thought Thinkers"
+  },
+  {
+    "id": 469,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "Batuhan, enhance your AI development with the latest Gemini updates"
+  },
+  {
+    "id": 470,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "A Clean, Stable Grid is Achievable — but We’re Building Too Slow | Matt Traverso in The New Climate."
+  },
+  {
+    "id": 471,
+    "sender": "QNB <qnb@kampanya.qnb.com.tr>",
+    "subject": "29 Ekim Cumhuriyet Bayramımız kutlu olsun"
+  },
+  {
+    "id": 472,
+    "sender": "AJET <onlineticket@mail.ajet.com>",
+    "subject": "Check-in bilgileriniz"
+  },
+  {
+    "id": 473,
+    "sender": "AJET <onlineticket@mail.ajet.com>",
+    "subject": "Check-in hatırlatma"
+  },
+  {
+    "id": 474,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 170"
+  },
+  {
+    "id": 475,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Was the Weather This Summer Worse For Running Than Usual? | Brian Rock in Runner's Life"
+  },
+  {
+    "id": 476,
+    "sender": "AJET <onlineticket@mail.ajet.com>",
+    "subject": "Uçuş Yönetimi Aktivasyon Kodu"
+  },
+  {
+    "id": 477,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Does Context Affect Your Ability to Know? | Matt Fujimoto in Philosophy Today"
+  },
+  {
+    "id": 478,
+    "sender": "AJET <onlineticket@mail.ajet.com>",
+    "subject": "Check-in bilgileriniz"
+  },
+  {
+    "id": 479,
+    "sender": "AJET <onlineticket@mail.ajet.com>",
+    "subject": "Check-in hatırlatma"
+  },
+  {
+    "id": 480,
+    "sender": "AJET <onlineticket@mail.ajet.com>",
+    "subject": "Uçuş değişiklik bilgilendirmesi"
+  },
+  {
+    "id": 481,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Can you solve this famous interview question? | Paolo Molignini, PhD in Puzzle Sphere"
+  },
+  {
+    "id": 482,
+    "sender": "QNB <qnb@kampanya.qnb.com.tr>",
+    "subject": "TSS Eksikliğiniz olabilir! Çözümü QNB Sigorta'da"
+  },
+  {
+    "id": 483,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Back-to-School Blues: A Parent’s Guide for Surviving Another Year of Education | Rodney Lacroix in MuddyUm"
+  },
+  {
+    "id": 484,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "🔦 Pay Heatmap, PM Hiring, and Negotiation Trends"
+  },
+  {
+    "id": 485,
+    "sender": "\"Sude Çiftci Kaya from Yemeksepeti\" <notifications@deliveryherogroup.com>",
+    "subject": "Yemeksepeti - YeY! Değerlendirme Süreci Sona Erdi"
+  },
+  {
+    "id": 486,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "A Young Child’s Guide to Making and Keeping Friends | Chelsea Resnick in Frazzled"
+  },
+  {
+    "id": 487,
+    "sender": "Garanti BBVA <bilgi@bilgi.garantibbva.com.tr>",
+    "subject": "Güvenliğiniz Bizim İçin Önemli"
+  },
+  {
+    "id": 488,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.62.0 on iPhone"
+  },
+  {
+    "id": 489,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 169"
+  },
+  {
+    "id": 490,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "4 Things I Learned About Learning While Coaching at a Boot Camp | Mark Somerfield in Psychology of Workplaces"
+  },
+  {
+    "id": 491,
+    "sender": "AJET <onlineticket@mail.ajet.com>",
+    "subject": "Bilet bilgileriniz"
+  },
+  {
+    "id": 492,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 493,
+    "sender": "Sakshi Raheja <sakshi.raheja@newsletters.analyticsvidhya.com>",
+    "subject": "Ready to follow your unique AI learning path?"
+  },
+  {
+    "id": 494,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 495,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "American Idol | Maria Nazos in The Interstitial"
+  },
+  {
+    "id": 496,
+    "sender": "Sakshi Raheja <sakshi.raheja@newsletters.analyticsvidhya.com>",
+    "subject": "Your personalized AI learning plan is waiting"
+  },
+  {
+    "id": 497,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 498,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 168"
+  },
+  {
+    "id": 499,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The “Resetting” Password Fiasco | Gary L Ellis"
+  },
+  {
+    "id": 500,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Language Shapes Our Reality | Harry Readhead"
+  },
+  {
+    "id": 501,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 502,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Google Has Finally Dethroned ChatGPT | Ignacio de Gregorio"
+  },
+  {
+    "id": 503,
+    "sender": "Sakshi Raheja <sakshi.raheja@newsletters.analyticsvidhya.com>",
+    "subject": "Do you know what is the safest option for your career?"
+  },
+  {
+    "id": 504,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 505,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "40 Life Lessons I Know at 40 (That I Wish I Knew at 20) | Mark Manson"
+  },
+  {
+    "id": 506,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 507,
+    "sender": "Strava <mail@update.strava.com>",
+    "subject": "Welcome, Batuhan! Let’s get started. 🔥"
+  },
+  {
+    "id": 508,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 509,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.61.2 on iPhone"
+  },
+  {
+    "id": 510,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 511,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 167"
+  },
+  {
+    "id": 512,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "20 of the Most Spectacular Species Discoveries in 2024 | Olivia Louise Dobbs"
+  },
+  {
+    "id": 513,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 514,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "One Easy Technique Helped Me Meditate Deeply (When Nothing Else Worked) | Neeramitra Reddy in Better Humans"
+  },
+  {
+    "id": 515,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 516,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Bye Bye, Spotify | Scott-Ryan Abt in The Slow Life"
+  },
+  {
+    "id": 517,
+    "sender": "QNB Finansbank <email@email.qnbfinansbank.com>",
+    "subject": "QNB FINANSBANK -  Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 518,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "🎉 New Job Titles, Who’s Hiring, and Negotiation Discounts!"
+  },
+  {
+    "id": 519,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "The Ultimate Lazy Daily Routine | John Gorman"
+  },
+  {
+    "id": 520,
+    "sender": "Sakshi Raheja <sakshi.raheja@newsletters.analyticsvidhya.com>",
+    "subject": "Your personalized AI learning plan is waiting"
+  },
+  {
+    "id": 521,
+    "sender": "CarrefourSA <ileti@e.carrefoursa.com>",
+    "subject": "📢500 TL ve Üzeri Alışverişinize!🤩"
+  },
+  {
+    "id": 522,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 523,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 166"
+  },
+  {
+    "id": 524,
+    "sender": "CarrefourSA <ileti@e.carrefoursa.com>",
+    "subject": "Paşabahçe Ve Borcam Ürünlerinde 1 Alana 1 Bedava!🤩"
+  },
+  {
+    "id": 525,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 526,
+    "sender": "CarrefourSA <ileti@e.carrefoursa.com>",
+    "subject": "📢HDI Fibaemeklilik’ten BES başlatanlar, CarrefourSA’dan Hoş Geldin Hediyesi ve her ay binlerce TL puan kazanma fırsatı yakalıyor!"
+  },
+  {
+    "id": 527,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 528,
+    "sender": "CarrefourSA <ileti@e.carrefoursa.com>",
+    "subject": "😻Evcil Hayvan Ürünlerinde 1 Alana 1 Bedava!"
+  },
+  {
+    "id": 529,
+    "sender": "The DataCamp Team <team@reply.datacamp.com>",
+    "subject": "Password Reset"
+  },
+  {
+    "id": 530,
+    "sender": "QNB Finansbank <email@email.qnbfinansbank.com>",
+    "subject": "QNB FINANSBANK - Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 531,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 532,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "Batuhan, upgrade your Gemini experience"
+  },
+  {
+    "id": 533,
+    "sender": "CarrefourSA <ileti@e.carrefoursa.com>",
+    "subject": "📢 150 TL İndirim Fırsatı Sizi Bekliyor! 🎉"
+  },
+  {
+    "id": 534,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 535,
+    "sender": "CarrefourSA <ileti@e.carrefoursa.com>",
+    "subject": "At Sepete! 🛒"
+  },
+  {
+    "id": 536,
+    "sender": "Turkcell <musteri@haberdaret.turkcell.com.tr>",
+    "subject": "Kullanım Şartları"
+  },
+  {
+    "id": 537,
+    "sender": "CarrefourSA <ileti@e.carrefoursa.com>",
+    "subject": "📢El, Yüz, Cilt Bakım Ürünlerinde %50 İndirim!🥰"
+  },
+  {
+    "id": 538,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "Batuhan, fine-tune Gemini for your needs"
+  },
+  {
+    "id": 539,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 165"
+  },
+  {
+    "id": 540,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Why Fight? — Keeping Sight of My Life’s Purpose Even When Depressed | Chandrayan Gupta in Invisible Illness"
+  },
+  {
+    "id": 541,
+    "sender": "CarrefourSA <ileti@e.carrefoursa.com>",
+    "subject": "🚨Alışveriş Hedefinizi Belirleyin, %10'u Kadar TL Puan Kazanın!"
+  },
+  {
+    "id": 542,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "Batuhan, create AI-Powered applications with Gemini"
+  },
+  {
+    "id": 543,
+    "sender": "Garanti BBVA <garantibbva@garantibbva.com.tr>",
+    "subject": "Anket Daveti"
+  },
+  {
+    "id": 544,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 545,
+    "sender": "LeetCode <no-reply@leetcode.com>",
+    "subject": "mastermindBatuhan, Join Your First Contest and Win 200 LeetCoins!"
+  },
+  {
+    "id": 546,
+    "sender": "CarrefourSA <ileti@e.carrefoursa.com>",
+    "subject": "📢At Sepete!🥰"
+  },
+  {
+    "id": 547,
+    "sender": "Garanti BBVA <garantibbva@garantibbva.com.tr>",
+    "subject": "Anket Daveti"
+  },
+  {
+    "id": 548,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 549,
+    "sender": "Sakshi Raheja <sakshi.raheja@newsletters.analyticsvidhya.com>",
+    "subject": "Have you started your journey with AI yet?"
+  },
+  {
+    "id": 550,
+    "sender": "CarrefourSA <ileti@e.carrefoursa.com>",
+    "subject": "📢Kişisel Bakım Kataloğumuzu İncelediniz Mi?🥰"
+  },
+  {
+    "id": 551,
+    "sender": "CarrefourSA <ileti@e.carrefoursa.com>",
+    "subject": "🚨Alışveriş Hedefinizi Belirleyin, %10'u Kadar TL Puan Kazanın!"
+  },
+  {
+    "id": 552,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 553,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "Batuhan, experiment with prompt design in Google AI Studio"
+  },
+  {
+    "id": 554,
+    "sender": "Sakshi Raheja <sakshi.raheja@newsletters.analyticsvidhya.com>",
+    "subject": "Have you started your journey with AI yet?"
+  },
+  {
+    "id": 555,
+    "sender": "Garanti BBVA Mobil <dekont@garantibbva.com.tr>",
+    "subject": "DEKONT"
+  },
+  {
+    "id": 556,
+    "sender": "Aksigorta <bulten@duyuru.aksigorta.com.tr>",
+    "subject": "Okula dönüşte ne lazımsa, Aksigorta fırsatlarıyla CarrefourSA'da!"
+  },
+  {
+    "id": 557,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 558,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 559,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 164"
+  },
+  {
+    "id": 560,
+    "sender": "QNB Finansbank <email@email.qnbfinansbank.com>",
+    "subject": "QNB FINANSBANK -  Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 561,
+    "sender": "Tinder <tinder@mail.tinder.com>",
+    "subject": "Başardın!"
+  },
+  {
+    "id": 562,
+    "sender": "Tinder <noreply@gotinder.com>",
+    "subject": "Tinder Hesabını Güvenli Hale Getir – E-posta Adresini Doğrula"
+  },
+  {
+    "id": 563,
+    "sender": "CarrefourSA <ileti@e.carrefoursa.com>",
+    "subject": "📢Son 2 Gün! CarrefourSA'da Doğru Harca Doğruca Kazan🛒"
+  },
+  {
+    "id": 564,
+    "sender": "CarrefourSA <ileti@e.carrefoursa.com>",
+    "subject": "📢 Kırtasiye Ürünlerinde %50 İndirim! 🎒 📖 🖊"
+  },
+  {
+    "id": 565,
+    "sender": "CarrefourSA <ileti@e.carrefoursa.com>",
+    "subject": "📢Doğrusu CarrefourSA'da, Doğruca CarrefourSA'ya!🛒"
+  },
+  {
+    "id": 566,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 567,
+    "sender": "QNB Finansbank <email@email.qnbfinansbank.com>",
+    "subject": "QNB FINANSBANK - Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 568,
+    "sender": "CarrefourSA <ileti@e.carrefoursa.com>",
+    "subject": "Favori Atıştırmalıklarınızda Kaçırılmayacak İndirimler! 🍫 🍭"
+  },
+  {
+    "id": 569,
+    "sender": "CarrefourSA <ileti@e.carrefoursa.com>",
+    "subject": "Üniversiteliler CarrefourSA'da Kazanıyor!🎓"
+  },
+  {
+    "id": 570,
+    "sender": "LeetCode <no-reply@leetcode.com>",
+    "subject": "mastermindBatuhan, Join Your First Contest and Win 200 LeetCoins!"
+  },
+  {
+    "id": 571,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 572,
+    "sender": "epostadogrulama@carrefoursakart.com",
+    "subject": "Lütfen e-posta adresinizi doğrular mısınız?"
+  },
+  {
+    "id": 573,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 574,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 163"
+  },
+  {
+    "id": 575,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Whenever I Forget Someone’s Name, I Always Use This Brilliant Hack | Peter Mukherjee in ILLUMINATION"
+  },
+  {
+    "id": 576,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 577,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 578,
+    "sender": "LeetCode <no-reply@leetcode.com>",
+    "subject": "mastermindBatuhan, Join Your First Contest and Win 200 LeetCoins!"
+  },
+  {
+    "id": 579,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 580,
+    "sender": "Etiler Foto Sezgin <etilerfoto@gmail.com>",
+    "subject": "Foto"
+  },
+  {
+    "id": 581,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 582,
+    "sender": "Yemeksepeti Talent Acquisition <talent.acquisition@yemeksepeti.com>",
+    "subject": "YeY! Senin Gibi Bir Dünyaya Bir Adım Daha Yakınsın!"
+  },
+  {
+    "id": 583,
+    "sender": "QNB Finansbank <email@email.qnbfinansbank.com>",
+    "subject": "QNB FINANSBANK -  Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 584,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 585,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 586,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 162"
+  },
+  {
+    "id": 587,
+    "sender": "Medium Daily Digest <noreply@medium.com>",
+    "subject": "Steven Bartlett’s Schedule Will Transform How You Manage Your Time | Victor Zexi He in ILLUMINATION"
+  },
+  {
+    "id": 588,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 589,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "İşte Google Hesabınızda oturum açmanız için bağlantınız"
+  },
+  {
+    "id": 590,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 591,
+    "sender": "LeetCode <no-reply@leetcode.com>",
+    "subject": "LeetCode Weekly Digest"
+  },
+  {
+    "id": 592,
+    "sender": "LeetCode <no-reply@leetcode.com>",
+    "subject": "mastermindBatuhan, Join Your First Contest and Win 200 LeetCoins!"
+  },
+  {
+    "id": 593,
+    "sender": "Google <noreply@google.com>",
+    "subject": "Google Doğrulama Kodu"
+  },
+  {
+    "id": 594,
+    "sender": "\"Yemeksepeti İnsan Kaynakları\" <notifier@peoplise.com>",
+    "subject": "Yemeksepeti YEY! Başvurun Bize Ulaştı!"
+  },
+  {
+    "id": 595,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 596,
+    "sender": "Sakshi Raheja <sakshi.raheja@newsletters.analyticsvidhya.com>",
+    "subject": "GenAI tools you need to learn now"
+  },
+  {
+    "id": 597,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "💸 Negotiation Outcomes, Free Levels.fyi Swag, Hiring, and More!"
+  },
+  {
+    "id": 598,
+    "sender": "\"Yemeksepeti İnsan Kaynakları\" <notifier@peoplise.com>",
+    "subject": "Yemeksepeti YEY'e Hoş Geldin!"
+  },
+  {
+    "id": 599,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 600,
+    "sender": "QNB Finansbank <email@email.qnbfinansbank.com>",
+    "subject": "QNB FINANSBANK - Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 601,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 602,
+    "sender": "Yemeksepeti <notification@smartrecruiters.com>",
+    "subject": "Yemeksepeti - Senin Gibi Bir Dünyaya İlk Adımını Attın ! - Yemeksepeti - You've Taken Your First Step into a World \"Senin Gibi\"!"
+  },
+  {
+    "id": 603,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 161"
+  },
+  {
+    "id": 604,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 605,
+    "sender": "Sakshi Raheja <sakshi.raheja@newsletters.analyticsvidhya.com>",
+    "subject": "Build Your First GenAI Application: Free Workshop Inside"
+  },
+  {
+    "id": 606,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 607,
+    "sender": "Medium <yourfriends@medium.com>",
+    "subject": "👋 Welcome to Medium"
+  },
+  {
+    "id": 608,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 609,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 610,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 611,
+    "sender": "Dawn Choo <askdatadawn@gmail.com>",
+    "subject": "Ask Data Dawn's mentorship program"
+  },
+  {
+    "id": 612,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 160"
+  },
+  {
+    "id": 613,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 614,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 615,
+    "sender": "Sakshi Raheja <sakshi.raheja@newsletters.analyticsvidhya.com>",
+    "subject": "Generative AI: The career move you need"
+  },
+  {
+    "id": 616,
+    "sender": "sahibinden <iletisim@iletisim.sahibinden.com>",
+    "subject": "Güvenliğiniz İçin Önemli Bilgilendirme 🔐"
+  },
+  {
+    "id": 617,
+    "sender": "Ask Data Dawn <ask-data-dawn@mail.beehiiv.com>",
+    "subject": "Thanks for joining my mailing list!"
+  },
+  {
+    "id": 618,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 619,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 620,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 159"
+  },
+  {
+    "id": 621,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 622,
+    "sender": "Sakshi Raheja <sakshi.raheja@newsletters.analyticsvidhya.com>",
+    "subject": "Hands-on GenAI Projects for 2024"
+  },
+  {
+    "id": 623,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 624,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 625,
+    "sender": "Aksigorta <bulten@duyuru.aksigorta.com.tr>",
+    "subject": "Pati Plus - VetAmerikan Sigortası Lansmanına Özel Petlebi İş Birliği ile 500 TL Hediye Çeki Kazanma Fırsatı Sizleri Bekliyor!"
+  },
+  {
+    "id": 626,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 627,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "Yeni Bir Cihazdan Oturum Açıldı"
+  },
+  {
+    "id": 628,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "2 Aşamalı Doğrulama"
+  },
+  {
+    "id": 629,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 630,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 631,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 158"
+  },
+  {
+    "id": 632,
+    "sender": "Sakshi Raheja <sakshi.raheja@newsletters.analyticsvidhya.com>",
+    "subject": "Batuhan, here's your roadmap to GenAI excellence"
+  },
+  {
+    "id": 633,
+    "sender": "The Google Account Team <no-reply@google.com>",
+    "subject": "✅ Batuhan, Apple iPhone cihazınızın kurulumunu en yeni Google uygulamalarıyla tamamlayın"
+  },
+  {
+    "id": 634,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.52.0 on iPhone"
+  },
+  {
+    "id": 635,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 636,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 637,
+    "sender": "QNB Finansbank <email@email.qnbfinansbank.com>",
+    "subject": "QNB FINANSBANK -  Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 638,
+    "sender": "QNB Finansbank <email@email.qnbfinansbank.com>",
+    "subject": "QNB FINANSBANK - Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 639,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 640,
+    "sender": "Kaggle <kaggle-noreply@google.com>",
+    "subject": "Competition deadline approaching"
+  },
+  {
+    "id": 641,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 642,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 157"
+  },
+  {
+    "id": 643,
+    "sender": "QNB Finansbank <email@email.qnbfinansbank.com>",
+    "subject": "E-Dekont"
+  },
+  {
+    "id": 644,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 645,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "📊 Unique Vesting Schedules, Salary Tracking, and Layoff Updates"
+  },
+  {
+    "id": 646,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 647,
+    "sender": "Sakshi Raheja <sakshi.raheja@newsletters.analyticsvidhya.com>",
+    "subject": "GenAI tools you need to learn now"
+  },
+  {
+    "id": 648,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 649,
+    "sender": "Kaggle <kaggle-noreply@google.com>",
+    "subject": "Competition deadline approaching"
+  },
+  {
+    "id": 650,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 651,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "(Anadolu Yakası Nezih) Favori Arama için Sonuçlar"
+  },
+  {
+    "id": 652,
+    "sender": "Aksigorta <bulten@duyuru.aksigorta.com.tr>",
+    "subject": "Aksigorta müşterileri Open English'te %65 indirimli!"
+  },
+  {
+    "id": 653,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 156"
+  },
+  {
+    "id": 654,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "sahibinden.com'a Hoş geldiniz!"
+  },
+  {
+    "id": 655,
+    "sender": "sahibinden <info@sahibinden.com>",
+    "subject": "E-postaların Gmail Birincil Sekmesine Düşmesi Nasıl Sağlanır?"
+  },
+  {
+    "id": 656,
+    "sender": "Sakshi Raheja <sakshi.raheja@newsletters.analyticsvidhya.com>",
+    "subject": "Build Your First GenAI Application: Free Workshop Inside"
+  },
+  {
+    "id": 657,
+    "sender": "Trendyol Go <infotrendyolgo@trendyolmail.com>",
+    "subject": "Trendyol GO | Yeni Adres Ekleme"
+  },
+  {
+    "id": 658,
+    "sender": "Trendyol Go <infotrendyolgo@trendyolmail.com>",
+    "subject": "Trendyol GO'ya Hoş Geldiniz 🎉"
+  },
+  {
+    "id": 659,
+    "sender": "Starbucks Turkiye <noreply@starbuckscardturkiye.com>",
+    "subject": "Starbucks Türkiye"
+  },
+  {
+    "id": 660,
+    "sender": "Sakshi Raheja <sakshi.raheja@newsletters.analyticsvidhya.com>",
+    "subject": "Generative AI: The career move you need"
+  },
+  {
+    "id": 661,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 155"
+  },
+  {
+    "id": 662,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.49.0 on iPhone"
+  },
+  {
+    "id": 663,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "[Update] Deprecation of Gemini 1.0 Pro Vision from Google AI for Developers"
+  },
+  {
+    "id": 664,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 154"
+  },
+  {
+    "id": 665,
+    "sender": "Garanti BBVA <bilgi@bilgi.garantibbva.com.tr>",
+    "subject": "Garanti BBVA Yatırım'dan Hisse Senedi %0 Komisyon Kampanyası"
+  },
+  {
+    "id": 666,
+    "sender": "QNB Finansbank <email@email.qnbfinansbank.com>",
+    "subject": "QNB FINANSBANK -  Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 667,
+    "sender": "Sakshi Raheja <sakshi.raheja@newsletters.analyticsvidhya.com>",
+    "subject": "Batuhan, here's your roadmap to GenAI excellence"
+  },
+  {
+    "id": 668,
+    "sender": "QNB Finansbank <email@email.qnbfinansbank.com>",
+    "subject": "QNB FINANSBANK -  Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 669,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.47.1 on iPhone"
+  },
+  {
+    "id": 670,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 153"
+  },
+  {
+    "id": 671,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.47.1 on iPhone"
+  },
+  {
+    "id": 672,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "New in Gemini 1.5: Code execution, context caching, and 2M context window"
+  },
+  {
+    "id": 673,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "Nvidia Millionaires, Cutting Cloud Bills, Levels.fyi reviews? 👍"
+  },
+  {
+    "id": 674,
+    "sender": "QNB Finansbank <email@email.qnbfinansbank.com>",
+    "subject": "QNB FINANSBANK - Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 675,
+    "sender": "<no-reply@aksigorta.com.tr>",
+    "subject": "Mobil uygulamaya yeni bir cihazdan giriş yapıldı"
+  },
+  {
+    "id": 676,
+    "sender": "adidas Running app <info@sender.runtastic.com>",
+    "subject": "👋  Hi, Batuhan, welcome to the team!"
+  },
+  {
+    "id": 677,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 152"
+  },
+  {
+    "id": 678,
+    "sender": "Codewars <info@m.codewars.com>",
+    "subject": "Important updates to our Terms of Use and Privacy Policy"
+  },
+  {
+    "id": 679,
+    "sender": "Sakshi Raheja <sakshi.raheja@newsletters.analyticsvidhya.com>",
+    "subject": "Have you built your first LLM app yet?"
+  },
+  {
+    "id": 680,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 681,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 682,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Google Hesabınız başarıyla kurtarıldı"
+  },
+  {
+    "id": 683,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.45.0 on iPhone"
+  },
+  {
+    "id": 684,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Google Hesabınız başarıyla kurtarıldı"
+  },
+  {
+    "id": 685,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 686,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 151"
+  },
+  {
+    "id": 687,
+    "sender": "The Google Account Team <no-reply@google.com>",
+    "subject": "✅ Batuhan, Apple iPhone cihazınızın kurulumunu en yeni Google uygulamalarıyla tamamlayın"
+  },
+  {
+    "id": 688,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 689,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Google Hesabınız başarıyla kurtarıldı"
+  },
+  {
+    "id": 690,
+    "sender": "Analytics Vidhya <info@newsletters.analyticsvidhya.com>",
+    "subject": "Generative AI: The Career Move You Need"
+  },
+  {
+    "id": 691,
+    "sender": "Analytics Vidhya <info@newsletters.analyticsvidhya.com>",
+    "subject": "Explore Analytics Vidhya's Resources and Programs!"
+  },
+  {
+    "id": 692,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "[Update] Deprecation of Gemini 1.0 Pro Vision from Google AI for Developers"
+  },
+  {
+    "id": 693,
+    "sender": "Kunal from AnalyticsVidhya <info@newsletters.analyticsvidhya.com>",
+    "subject": "Welcome to Analytics Vidhya!"
+  },
+  {
+    "id": 694,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 150"
+  },
+  {
+    "id": 695,
+    "sender": "Turkish Airlines <onlineticket@mail.turkishairlines.com>",
+    "subject": "İade/iletişim bilgisi güncelleme onay kodu"
+  },
+  {
+    "id": 696,
+    "sender": "TURKISH AIRLINES <onlineticket@mail.turkishairlines.com>",
+    "subject": "Türk Hava Yolları - İptal - Bilgi Mesajı"
+  },
+  {
+    "id": 697,
+    "sender": "TURKISH AIRLINES <onlineticket@mail.turkishairlines.com>",
+    "subject": "Türk Hava Yolları - İptal - Bilgi Mesajı"
+  },
+  {
+    "id": 698,
+    "sender": "The Google Account Team <no-reply@google.com>",
+    "subject": "✅ Batuhan, Apple iPhone cihazınızın kurulumunu en yeni Google uygulamalarıyla tamamlayın"
+  },
+  {
+    "id": 699,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 700,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 149"
+  },
+  {
+    "id": 701,
+    "sender": "QNB Finansbank <email@email.qnbfinansbank.com>",
+    "subject": "QNB FINANSBANK -  Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 702,
+    "sender": "Google Account <google-account-noreply@google.com>",
+    "subject": "Google: Kayıtlı adreslerinizi Google Hesabınızda yönetin"
+  },
+  {
+    "id": 703,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "Gemini 1.5 Pro and 1.5 Flash are now generally available"
+  },
+  {
+    "id": 704,
+    "sender": "Turkish Airlines <onlineticket@mail.turkishairlines.com>",
+    "subject": "Türk Hava Yolları - Online Bilet - Bilgi Mesajı"
+  },
+  {
+    "id": 705,
+    "sender": "Turkish Airlines <mail@mail.turkishairlines.com>",
+    "subject": "Ticari elektronik ileti bilgilendirmesi"
+  },
+  {
+    "id": 706,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "📈 AI Compensation Trends, Global Currency Support, and more!"
+  },
+  {
+    "id": 707,
+    "sender": "QNB Finansbank <email@email.qnbfinansbank.com>",
+    "subject": "QNB FINANSBANK - Fast Para transferi bildiriminiz"
+  },
+  {
+    "id": 708,
+    "sender": "Turkish Airlines <onlineticket@mail.turkishairlines.com>",
+    "subject": "Türk Hava Yolları - Online Bilet - Bilgi Mesajı"
+  },
+  {
+    "id": 709,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 148"
+  },
+  {
+    "id": 710,
+    "sender": "QNB Finansbank <email@email.qnbfinansbank.com>",
+    "subject": "E-posta Adres Doğrulaması"
+  },
+  {
+    "id": 711,
+    "sender": "Google for Developers <GoogleDevelopers-noreply@google.com>",
+    "subject": "Gemini API'deki Gemini 1.5 Pro'nun faturalandırması 30 Mayıs 2024'te başlayacak"
+  },
+  {
+    "id": 712,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 147"
+  },
+  {
+    "id": 713,
+    "sender": "Aksigorta <bilgilendirme@info.sencard.com.tr>",
+    "subject": "Sağlık Güvenceniz Yenilendi !"
+  },
+  {
+    "id": 714,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "Launching 150+ Currencies on Levels.fyi 🌐"
+  },
+  {
+    "id": 715,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "Try Gemini 1.5 Flash"
+  },
+  {
+    "id": 716,
+    "sender": "Google for Developers <GoogleDevelopers-noreply@google.com>",
+    "subject": "Billing for Gemini 1.5 Pro in Gemini API will start on May 30, 2024"
+  },
+  {
+    "id": 717,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 146"
+  },
+  {
+    "id": 718,
+    "sender": "Google Developers <GoogleDevelopers-noreply@google.com>",
+    "subject": "[Hatırlatma] Gemini API'de \"kullandıkça öde\" planı 14 Mayıs 2024'te kullanıma sunuluyor"
+  },
+  {
+    "id": 719,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 145"
+  },
+  {
+    "id": 720,
+    "sender": "Dropbox <no-reply@em-s.dropbox.com>",
+    "subject": "Day 1 - Your Dropbox journey begins here"
+  },
+  {
+    "id": 721,
+    "sender": "Dropbox <no-reply@dropbox.com>",
+    "subject": "Hi Batuhan, we noticed a new sign in to your Dropbox account"
+  },
+  {
+    "id": 722,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "Learn the latest on Gemini at Google I/O"
+  },
+  {
+    "id": 723,
+    "sender": "Google for Developers <GoogleDevelopers-noreply@google.com>",
+    "subject": "[Reminder] Gemini API “pay-as-you-go” plan now starts May 14, 2024"
+  },
+  {
+    "id": 724,
+    "sender": "LeetCode <no-reply@leetcode.com>",
+    "subject": "mastermindBatuhan, Join Your First Contest and Win 200 LeetCoins!"
+  },
+  {
+    "id": 725,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güncellenen Hizmet Şartlarımız hakkında daha fazla bilgi edinin"
+  },
+  {
+    "id": 726,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "Levels.fyi Gender Pay Gap Report 2024"
+  },
+  {
+    "id": 727,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.38.0 on iPhone"
+  },
+  {
+    "id": 728,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 144"
+  },
+  {
+    "id": 729,
+    "sender": "Pocket <team@go.getpocket.com>",
+    "subject": "Welcome to Pocket! Good things await you ✨"
+  },
+  {
+    "id": 730,
+    "sender": "LeetCode <no-reply@leetcode.com>",
+    "subject": "mastermindBatuhan, Join Your First Contest and Win 200 LeetCoins!"
+  },
+  {
+    "id": 731,
+    "sender": "YouTube <noreply-purchases@youtube.com>",
+    "subject": "Dr.RedPill üyeliğiniz 24 May 2024 tarihinde sona erecek"
+  },
+  {
+    "id": 732,
+    "sender": "YouTube <noreply-purchases@youtube.com>",
+    "subject": "Dr.RedPill üyeliğiniz"
+  },
+  {
+    "id": 733,
+    "sender": "Aksigorta <bulten@duyuru.aksigorta.com.tr>",
+    "subject": "Mutluluğun Adı: 23 Nisan Çocuk Bayramı"
+  },
+  {
+    "id": 734,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.37.0 on iPhone"
+  },
+  {
+    "id": 735,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 143"
+  },
+  {
+    "id": 736,
+    "sender": "LeetCode <no-reply@leetcode.com>",
+    "subject": "[LeetCode] Confirm E-mail Address"
+  },
+  {
+    "id": 737,
+    "sender": "LeetCode <no-reply@leetcode.com>",
+    "subject": "[LeetCode] Confirm E-mail Address"
+  },
+  {
+    "id": 738,
+    "sender": "\"Supplementler.com\" <supplementler@e.supplementler.com>",
+    "subject": "Supplementler.com. Siparişiniz alınmıştır - 19.04.2024 23:38"
+  },
+  {
+    "id": 739,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "📝 Who's Hiring, Scaling Search, Building Levels.fyi, and more!"
+  },
+  {
+    "id": 740,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Önemli güvenlik uyarısı"
+  },
+  {
+    "id": 741,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.37.0 on iPhone"
+  },
+  {
+    "id": 742,
+    "sender": "Turkish Airlines <onlineticket@mail.turkishairlines.com>",
+    "subject": "Koltuk Seçimi Detayları"
+  },
+  {
+    "id": 743,
+    "sender": "Turkish Airlines <onlineticket@mail.turkishairlines.com>",
+    "subject": "Türk Hava Yolları - Online Bilet - Bilgi Mesajı"
+  },
+  {
+    "id": 744,
+    "sender": "Turkish Airlines <onlineticket@mail.turkishairlines.com>",
+    "subject": "Türk Hava Yolları - Online Bilet - Bilgi Mesajı"
+  },
+  {
+    "id": 745,
+    "sender": "Turkish Airlines <mail@mail.turkishairlines.com>",
+    "subject": "Ticari elektronik ileti bilgilendirmesi"
+  },
+  {
+    "id": 746,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.36.2 on iPhone"
+  },
+  {
+    "id": 747,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 142"
+  },
+  {
+    "id": 748,
+    "sender": "Turkish Airlines <onlineticket@mail.turkishairlines.com>",
+    "subject": "Koltuk Seçimi Detayları"
+  },
+  {
+    "id": 749,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "Build with Gemini 1.5 Pro in the Gemini API"
+  },
+  {
+    "id": 750,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 141"
+  },
+  {
+    "id": 751,
+    "sender": "Google Developers <GoogleDevelopers-noreply@google.com>",
+    "subject": "[İşlem Öneriliyor] Gemini API faturalandırma durumunu inceleyin"
+  },
+  {
+    "id": 752,
+    "sender": "Aksigorta <bulten@duyuru.aksigorta.com.tr>",
+    "subject": "Aksigortalılar Carrefoursa'da Kazanmasını Biliyor"
+  },
+  {
+    "id": 753,
+    "sender": "Google for Developers <GoogleDevelopers-noreply@google.com>",
+    "subject": "[Action Advised] Review your Gemini API billing status"
+  },
+  {
+    "id": 754,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 140"
+  },
+  {
+    "id": 755,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "[Update] Deprecation of PaLM API from Google AI for Developers"
+  },
+  {
+    "id": 756,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri Abone Anketi"
+  },
+  {
+    "id": 757,
+    "sender": "Turkish Airlines <onlineticket@mail.turkishairlines.com>",
+    "subject": "Türk Hava Yolları - Online Bilet - Bilgi Mesajı"
+  },
+  {
+    "id": 758,
+    "sender": "Turkish Airlines <mail@mail.turkishairlines.com>",
+    "subject": "Ticari elektronik ileti bilgilendirmesi"
+  },
+  {
+    "id": 759,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 139"
+  },
+  {
+    "id": 760,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "Customize Gemini models with tuning"
+  },
+  {
+    "id": 761,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "📱 In-App Polls, Meta Team Matching, and New Vesting Schedules!"
+  },
+  {
+    "id": 762,
+    "sender": "GastroClub <info@e.gastroclub.com.tr>",
+    "subject": "👚Knitss'te %15 GastroClub İndirimi!"
+  },
+  {
+    "id": 763,
+    "sender": "X <verify@x.com>",
+    "subject": "Security alert: new or unusual X login"
+  },
+  {
+    "id": 764,
+    "sender": "GastroClub <info@e.gastroclub.com.tr>",
+    "subject": "🛒Pişir'de %20 GastroClub İndirimi!"
+  },
+  {
+    "id": 765,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Google Hesabınız başarıyla kurtarıldı"
+  },
+  {
+    "id": 766,
+    "sender": "GastroClub <info@e.gastroclub.com.tr>",
+    "subject": "👔Hemington'da %15 GastroClub İndirimi!"
+  },
+  {
+    "id": 767,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 138"
+  },
+  {
+    "id": 768,
+    "sender": "GastroClub <info@e.gastroclub.com.tr>",
+    "subject": "💄 Gratis'de Ek %15 GastroClub İndirimi!"
+  },
+  {
+    "id": 769,
+    "sender": "GastroClub <info@e.gastroclub.com.tr>",
+    "subject": "🧀Pınaronline'da 200 TL GastroClub İndirimi!"
+  },
+  {
+    "id": 770,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 137"
+  },
+  {
+    "id": 771,
+    "sender": "GastroClub <info@e.gastroclub.com.tr>",
+    "subject": "💻Teknosa'da %15 GastroClub İndirimi!"
+  },
+  {
+    "id": 772,
+    "sender": "GastroClub <info@e.gastroclub.com.tr>",
+    "subject": "8 Mart Dünya Kadınlar Gününüz Kutlu Olsun!"
+  },
+  {
+    "id": 773,
+    "sender": "X <verify@x.com>",
+    "subject": "New login to X from 10.31.1 on iPhone"
+  },
+  {
+    "id": 774,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 775,
+    "sender": "GastroClub <info@e.gastroclub.com.tr>",
+    "subject": "👔 AVVA'da 700 TL GastroClub İndirimi!"
+  },
+  {
+    "id": 776,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Önemli güvenlik uyarısı"
+  },
+  {
+    "id": 777,
+    "sender": "GastroClub <info@e.gastroclub.com.tr>",
+    "subject": "🛒Macrocenter.com'da %10 GastroClub İndirimi!"
+  },
+  {
+    "id": 778,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 136"
+  },
+  {
+    "id": 779,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Google Hesabınız başarıyla kurtarıldı"
+  },
+  {
+    "id": 780,
+    "sender": "GastroClub <info@e.gastroclub.com.tr>",
+    "subject": "🚗Sixt'te %40 GastroClub İndirimi!"
+  },
+  {
+    "id": 781,
+    "sender": "Aksigorta <bulten@duyuru.aksigorta.com.tr>",
+    "subject": "AKSİGORTALILAR CARREFOURSA'DA KAZANMASINI BİLİYOR"
+  },
+  {
+    "id": 782,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 783,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Google Hesabınız başarıyla kurtarıldı"
+  },
+  {
+    "id": 784,
+    "sender": "<no-reply@aksigorta.com.tr>",
+    "subject": "Mobil uygulamaya yeni bir cihazdan giriş yapıldı"
+  },
+  {
+    "id": 785,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 135"
+  },
+  {
+    "id": 786,
+    "sender": "Aksigorta <bilgilendirme@info.sencard.com.tr>",
+    "subject": "Sağlık Güvenceniz Yenilendi !"
+  },
+  {
+    "id": 787,
+    "sender": "Turkcell <musteri@haberdaret.turkcell.com.tr>",
+    "subject": "Kullanım Şartları"
+  },
+  {
+    "id": 788,
+    "sender": "The Google Account Team <no-reply@google.com>",
+    "subject": "✅ Batuhan, Apple iPhone cihazınızın kurulumunu en yeni Google uygulamalarıyla tamamlayın"
+  },
+  {
+    "id": 789,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 790,
+    "sender": "no-reply@amazon.co.uk",
+    "subject": "Rate your recent experience with Amazon"
+  },
+  {
+    "id": 791,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 134"
+  },
+  {
+    "id": 792,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "💌 Who’s Hiring, Layoff Impact, App Updates, and More!"
+  },
+  {
+    "id": 793,
+    "sender": "\"Amazon.com.tr\" <siparis-bilgisi@amazon.com.tr>",
+    "subject": "Amazon Siparişin Hakkında Bilgilendirme"
+  },
+  {
+    "id": 794,
+    "sender": "\"Amazon.com.tr\" <siparis-bilgisi@amazon.com.tr>",
+    "subject": "Teslim edildi: Amazon paketiniz teslim edildi."
+  },
+  {
+    "id": 795,
+    "sender": "\"Amazon.com.tr\" <kargo-takibi@amazon.com.tr>",
+    "subject": "1 ürün içeren #404-2792896-9931517 numaralı Amazon.com.tr siparişiniz yola çıktı"
+  },
+  {
+    "id": 796,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 133"
+  },
+  {
+    "id": 797,
+    "sender": "\"Amazon.com.tr\" <otomatik-onay@amazon.com.tr>",
+    "subject": "1 ürün içeren #404-2792896-9931517 numaralı Amazon.com.tr siparişiniz"
+  },
+  {
+    "id": 798,
+    "sender": "Garanti BBVA <garanti@info.garantibbva.com.tr>",
+    "subject": "Para Transferi Bilgilendirmesi"
+  },
+  {
+    "id": 799,
+    "sender": "Amazon <account-update@amazon.com>",
+    "subject": "Revision to Your Amazon.com Account"
+  },
+  {
+    "id": 800,
+    "sender": "\"Amazon.com\" <account-update@amazon.com>",
+    "subject": "Amazon password assistance"
+  },
+  {
+    "id": 801,
+    "sender": "no-reply@amazon.com.tr",
+    "subject": "Şüpheli etkinlik nedeniyle sipariş iptal edildi"
+  },
+  {
+    "id": 802,
+    "sender": "\"Amazon.com.tr\" <otomatik-onay@amazon.com.tr>",
+    "subject": "1 ürün içeren #404-0374428-6129909 numaralı Amazon.com.tr siparişiniz"
+  },
+  {
+    "id": 803,
+    "sender": "\"amazon.com.tr\" <account-update@amazon.com.tr>",
+    "subject": "amazon.com.tr: Sign-in"
+  },
+  {
+    "id": 804,
+    "sender": "Garanti BBVA <garantibbva@garantibbva.com.tr>",
+    "subject": "Anket Daveti"
+  },
+  {
+    "id": 805,
+    "sender": "Kaggle <noreply@kaggle.com>",
+    "subject": "You’re officially a Kaggler. Now what?"
+  },
+  {
+    "id": 806,
+    "sender": "Garanti BBVA <garantibbva@garantibbva.com.tr>",
+    "subject": "Anket Daveti"
+  },
+  {
+    "id": 807,
+    "sender": "Garanti BBVA <garanti@info.garantibbva.com.tr>",
+    "subject": "Para Transferi Bilgilendirmesi"
+  },
+  {
+    "id": 808,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 132"
+  },
+  {
+    "id": 809,
+    "sender": "Turkcell <musteri@haberdaret.turkcell.com.tr>",
+    "subject": "Turkcell Fatura Ödeme Bilgileri"
+  },
+  {
+    "id": 810,
+    "sender": "Garanti BBVA <garantibbva@garantibbva.com.tr>",
+    "subject": "E-Posta Doğrulamanız Hakkında"
+  },
+  {
+    "id": 811,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 131"
+  },
+  {
+    "id": 812,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "🎊 2024 Outlook, End of Year Report, Mobile App, and More!"
+  },
+  {
+    "id": 813,
+    "sender": "LeetCode <no-reply@leetcode.com>",
+    "subject": "[LeetCode] Confirm E-mail Address"
+  },
+  {
+    "id": 814,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 130"
+  },
+  {
+    "id": 815,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "Trending Posts on Levels.fyi"
+  },
+  {
+    "id": 816,
+    "sender": "Codewars <info@codewars.com>",
+    "subject": "Welcome to Codewars, brought to you by Qualified!"
+  },
+  {
+    "id": 817,
+    "sender": "Codewars <info@codewars.com>",
+    "subject": "Confirm your account... Dojo Access Link"
+  },
+  {
+    "id": 818,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 129"
+  },
+  {
+    "id": 819,
+    "sender": "The Google Account Team <no-reply@google.com>",
+    "subject": "✅ Batuhan, Apple iPad cihazınızın kurulumunu en yeni Google uygulamalarıyla tamamlayın"
+  },
+  {
+    "id": 820,
+    "sender": "Google <no-reply@accounts.google.com>",
+    "subject": "Güvenlik uyarısı"
+  },
+  {
+    "id": 821,
+    "sender": "YouTube Premium <no-reply@youtube.com>",
+    "subject": "Tebrikler - artık YouTube Premium üyesisiniz"
+  },
+  {
+    "id": 822,
+    "sender": "\"♟Chess.com\" <account@chess.com>",
+    "subject": "Üyeliğinizi Etkinleştirin"
+  },
+  {
+    "id": 823,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 128"
+  },
+  {
+    "id": 824,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "Trending Posts on Levels.fyi"
+  },
+  {
+    "id": 825,
+    "sender": "YouTube <noreply-purchases@youtube.com>",
+    "subject": "YouTube Premium üyeliğine hoş geldiniz"
+  },
+  {
+    "id": 826,
+    "sender": "The DataCamp Team <team@datacamp.com>",
+    "subject": "Ready? Let's go! 💪"
+  },
+  {
+    "id": 827,
+    "sender": "The DataCamp Team <team@datacamp.com>",
+    "subject": "Please verify your email address"
+  },
+  {
+    "id": 828,
+    "sender": "\"Levels.fyi\" <hello@levels.fyi>",
+    "subject": "Your Levels.fyi verification link"
+  },
+  {
+    "id": 829,
+    "sender": "Tony Leks <tony@signalhire.net>",
+    "subject": "Batuhan, you won and I give up"
+  },
+  {
+    "id": 830,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri: 127"
+  },
+  {
+    "id": 831,
+    "sender": "Turkcell <nokta@haberdaret.turkcell.com.tr>",
+    "subject": "Abonelik Sözleşmesi Özeti"
+  },
+  {
+    "id": 832,
+    "sender": "Turkcell <musteri@haberdaret.turkcell.com.tr>",
+    "subject": "Numara Taşıma Talebiniz Alınmıştır"
+  },
+  {
+    "id": 833,
+    "sender": "\"Amazon.com\" <store-news@amazon.com>",
+    "subject": "Here's your eBook credit from your recent Amazon order"
+  },
+  {
+    "id": 834,
+    "sender": "\"Amazon.com\" <digital-no-reply@amazon.com>",
+    "subject": "Amazon.com order of D01-6816131-8275422."
+  },
+  {
+    "id": 835,
+    "sender": "Amazon <account-update@amazon.com>",
+    "subject": "Revision to Your Amazon.com Account"
+  },
+  {
+    "id": 836,
+    "sender": "\"Amazon.com\" <account-update@amazon.com>",
+    "subject": "Amazon password assistance"
+  },
+  {
+    "id": 837,
+    "sender": "Tony Leks <tony@signalhire.net>",
+    "subject": "Three main benefits of having a verified SignalHire account"
+  },
+  {
+    "id": 838,
+    "sender": "Google AI Studio <googleaistudio-noreply@google.com>",
+    "subject": "Welcome to Google AI Studio"
+  },
+  {
+    "id": 839,
+    "sender": "Tony Leks <tony@signalhire.net>",
+    "subject": "Batuhan, why is it important to verify your SignalHire account?"
+  },
+  {
+    "id": 840,
+    "sender": "Tony Leks <tony@signalhire.net>",
+    "subject": "Verify your SignalHire account"
+  },
+  {
+    "id": 841,
+    "sender": "SignalHire <admin@signalhire.com>",
+    "subject": "Verify your SignalHire account"
+  },
+  {
+    "id": 842,
+    "sender": "The Google Account Team <no-reply@google.com>",
+    "subject": "✅ Batuhan, Apple iPhone cihazınızın kurulumunu en yeni Google uygulamalarıyla tamamlayın"
+  },
+  {
+    "id": 843,
+    "sender": "Exxen <info@e.exxen.com>",
+    "subject": "Email doğrulama"
+  },
+  {
+    "id": 844,
+    "sender": "\"Dünya Halleri\" <dunyahalleri@substack.com>",
+    "subject": "Dünya Halleri'ne hoşgeldiniz"
+  },
+  {
+    "id": 845,
+    "sender": "\"Amazon.com\" <digital-no-reply@amazon.com>",
+    "subject": "Amazon.com order of D01-9448599-6688222."
+  },
+  {
+    "id": 846,
+    "sender": "Amazon <account-update@amazon.com>",
+    "subject": "Verify your new Amazon account"
+  },
+  {
+    "id": 847,
+    "sender": "Google Topluluk Ekibi <googlecommunityteam-noreply@google.com>",
+    "subject": "Batuhan, yeni Google Hesabınızın kurulumunu tamamlayın"
+  }
+]

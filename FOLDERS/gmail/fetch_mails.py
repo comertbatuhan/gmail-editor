@@ -1,6 +1,7 @@
 from __future__ import print_function
 import os.path
 import pandas as pd
+import json
 
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
@@ -20,15 +21,15 @@ def get_gmail_service():
         if creds and creds.expired and creds.refresh_token:
             creds.refresh(Request())
         else:
-            flow = InstalledAppFlow.from_client_secrets_file("./LegacyCodes/credentials.json", SCOPES)
+            flow = InstalledAppFlow.from_client_secrets_file("../config/credentials.json", SCOPES)
             creds = flow.run_local_server(port=0)
-        with open("token.json", "w") as token:
+        with open("../config/token.json", "w") as token:
             token.write(creds.to_json())
     return build("gmail", "v1", credentials=creds)
 
 
 def length_of_mail(service):
-    """Fetch the number of messages in the user's mailbox."""
+    """Calculate number of messages in the mailbox."""
     try:
         response = service.users().messages().list(userId="me").execute()
         messages = response.get("messages", [])
@@ -38,7 +39,7 @@ def length_of_mail(service):
 
 
 def fetch_messages(service, max_count=1000, save_path="raw_emails.parquet"):
-    """Fetch `max_count` messages from the Primary tab and save as a Parquet file."""
+    """Fetch `max_count` messages from the Primary tab and save as json file."""
     query = "category:primary"
     all_data = []
     next_page_token = None
@@ -84,7 +85,10 @@ def fetch_messages(service, max_count=1000, save_path="raw_emails.parquet"):
         if not next_page_token:
             break
 
-    # Save to Parquet
+    # Save to json file
     df = pd.DataFrame(all_data)
-    df.to_parquet(save_path, index=False)
-    print(f"\n Saved {len(df)} messages to {save_path}")
+    df['id'] = list(range(1,df['id'].shape[0]+1))
+    result = df.to_dict(orient='records')
+    with open("../data/raw_emails.json", "w", encoding="utf-8") as f:
+        json.dump(result, f, indent=2, ensure_ascii=False)
+    print(f"\n Saved {len(df)} messages")

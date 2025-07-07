@@ -21,3 +21,4 @@ env/
 
 raw_emails.parquet
 steps.txt
+keys.json
