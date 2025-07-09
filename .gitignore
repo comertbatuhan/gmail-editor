@@ -21,4 +21,5 @@ env/
 
 raw_emails.parquet
 steps.txt
+linkedin.txt
 keys.json
